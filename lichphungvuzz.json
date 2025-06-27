@@ -1,0 +1,3026 @@
+[
+    {
+      "ngay": {
+        "original": "01/04",
+        "slash": "1/4",
+        "dot": "1.4",
+        "text": "1 tháng 4"
+      },
+      "loai_le": "Lễ thường",
+      "ten_le": "Thứ Ba trong tuần thứ Tư Mùa Chay",
+      "bai_doc": "Ed 47,1-9.12 ; Ga 5,1-3a.5-16 (Tm)"
+    },
+    {
+      "ngay": {
+        "original": "02/04",
+        "slash": "2/4",
+        "dot": "2.4",
+        "text": "2 tháng 4"
+      },
+      "loai_le": "Lễ thường",
+      "ten_le": "Thánh Phanxicô Paola, ẩn tu. Thánh Đaminh Vũ Đình Tước, linh mục, tử đạo (1839)",
+      "bai_doc": "Is 49,8-15 ; Ga 5,17-30 (Tm)"
+    },
+    {
+      "ngay": {
+        "original": "03/04",
+        "slash": "3/4",
+        "dot": "3.4",
+        "text": "3 tháng 4"
+      },
+      "loai_le": "Lễ thường",
+      "ten_le": "Thứ Năm trong tuần thứ Tư Mùa Chay",
+      "bai_doc": "Xh 32,7-14 ; Ga 5,31-47 (Tm)"
+    },
+    {
+      "ngay": {
+        "original": "04/04",
+        "slash": "4/4",
+        "dot": "4.4",
+        "text": "4 tháng 4"
+      },
+      "loai_le": "Lễ thường",
+      "ten_le": "Thánh Isiđôrô, giám mục, tiến sĩ Hội Thánh",
+      "bai_doc": "Kn 2,1a.12-22 ; Ga 7,1-2.10.25-30 (Tm)"
+    },
+    {
+      "ngay": {
+        "original": "05/04",
+        "slash": "5/4",
+        "dot": "5.4",
+        "text": "5 tháng 4"
+      },
+      "loai_le": "Lễ thường",
+      "ten_le": "Thánh Vinh Sơn Ferrer, linh mục",
+      "bai_doc": "Gr 11,18-20 ; Ga 7,40-53 (Tm)"
+    },
+    {
+      "ngay": {
+        "original": "06/04",
+        "slash": "6/4",
+        "dot": "6.4",
+        "text": "6 tháng 4"
+      },
+      "loai_le": "Lễ Trọng",
+      "ten_le": "CHÚA NHẬT V MÙA CHAY. Thánh Vịnh Tuần I",
+      "bai_doc": "s 43,16-21 ; Pl 3,8-14 ; Ga 8,1-11 (Tm)"
+    },
+    {
+      "ngay": {
+        "original": "07/04",
+        "slash": "7/4",
+        "dot": "7.4",
+        "text": "7 tháng 4"
+      },
+      "loai_le": "Lễ nhớ",
+      "ten_le": "Thánh Gioan Baoti xita Lasan, linh mục.",
+      "bai_doc": "Đn 13,1-9.15-17.19-30.33-62 (hay Đn 13,41c-62) ; Ga 8,12-20 (Tm)"
+    },
+    {
+      "ngay": {
+        "original": "08/04",
+        "slash": "8/4",
+        "dot": "8.4",
+        "text": "8 tháng 4"
+      },
+      "loai_le": "Lễ thường",
+      "ten_le": "Thứ Ba trong tuần thứ Năm Mùa Chay",
+      "bai_doc": "Ds 21,4-9 ; Ga 8,21-30 (Tm)"
+    },
+    {
+      "ngay": {
+        "original": "09/04",
+        "slash": "9/4",
+        "dot": "9.4",
+        "text": "9 tháng 4"
+      },
+      "loai_le": "Lễ thường",
+      "ten_le": "Thứ Tư trong tuần thứ Năm Mùa Chay",
+      "bai_doc": "Đn 3,14-20.91-92.95 (hay Đn 3,14-20.24-25.28) ; Ga 8,31-42 (Tm)"
+    },
+    {
+      "ngay": {
+        "original": "10/04",
+        "slash": "10/4",
+        "dot": "10.4",
+        "text": "10 tháng 4"
+      },
+      "loai_le": "Lễ thường",
+      "ten_le": "Thứ Năm trong tuần thứ Năm Mùa Chay",
+      "bai_doc": "St 17,3-9 ; Ga 8,51-59 (Tm)"
+    },
+    {
+      "ngay": {
+        "original": "11/04",
+        "slash": "11/4",
+        "dot": "11.4",
+        "text": "11 tháng 4"
+      },
+      "loai_le": "Lễ nhớ",
+      "ten_le": "Thánh Stanislaô, giám mục, tử đạo",
+      "bai_doc": "Gr 20,10-13 ; Ga 10,31-42 (Tm)"
+    },
+    {
+      "ngay": {
+        "original": "12/04",
+        "slash": "12/4",
+        "dot": "12.4",
+        "text": "12 tháng 4"
+      },
+      "loai_le": "Lễ thường",
+      "ten_le": "Thứ Bảy trong tuần thứ Năm Mùa Chay",
+      "bai_doc": "Ed 37,21-28 ; Ga 11,45-56 (Tm)"
+    },
+    {
+      "ngay": {
+        "original": "13/04",
+        "slash": "13/4",
+        "dot": "13.4",
+        "text": "13 tháng 4"
+      },
+      "loai_le": "Lễ Trọng",
+      "ten_le": "CHÚA NHẬT LỄ LÁ. TƯỞNG NIỆM CUỘC THƯƠNG KHÓ CỦA CHÚA GIÊSU. Thánh vịnh tuần II",
+      "bai_doc": "Lc 19,28-40. Thánh lễ: Is 50,4-7 ; Pl 2,6-11 ; Lc 22,14–23,56 (hay Lc 23,1-49)"
+    },
+    {
+      "ngay": {
+        "original": "14/04",
+        "slash": "14/4",
+        "dot": "14.4",
+        "text": "14 tháng 4"
+      },
+      "loai_le": "Lễ thường",
+      "ten_le": "THỨ HAI TUẦN THÁNH",
+      "bai_doc": "Is 42,1-7 ; Ga 12,1-11 (Tm)"
+    },
+    {
+      "ngay": {
+        "original": "15/04",
+        "slash": "15/4",
+        "dot": "15.4",
+        "text": "15 tháng 4"
+      },
+      "loai_le": "Lễ thường",
+      "ten_le": "THỨ BA TUẦN THÁNH",
+      "bai_doc": "Is 49,1-6 ; Ga 13,21-33.36-38 (Tm)"
+    },
+    {
+      "ngay": {
+        "original": "16/04",
+        "slash": "16/4",
+        "dot": "16.4",
+        "text": "16 tháng 4"
+      },
+      "loai_le": "Lễ thường",
+      "ten_le": "THỨ TƯ TUẦN THÁNH",
+      "bai_doc": "Is 50,4-9a ; Mt 26,14-25 (Tm)"
+    },
+    {
+      "ngay": {
+        "original": "17/04",
+        "slash": "17/4",
+        "dot": "17.4",
+        "text": "17 tháng 4"
+      },
+      "loai_le": "Lễ thường",
+      "ten_le": "THỨ NĂM TUẦN THÁNH. Thánh lễ sáng: THÁNH LỄ LÀM PHÉP DẦU. Thánh lễ chiều: THÁNH LỄ TIỆC LY",
+      "bai_doc": "Lễ sáng: Is 61,1-3a.6a.8b-9 ; Kh 1,5-8 ; Lc 4, 16-21. Lễ chiều: Xh 12,1-8.11-14 ; 1 Cr 11,23-26 ; Ga 13,1-15 (Tr)"
+    },
+    {
+      "ngay": {
+        "original": "18/04",
+        "slash": "18/4",
+        "dot": "18.4",
+        "text": "18 tháng 4"
+      },
+      "loai_le": "Lễ thường",
+      "ten_le": "THỨ SÁU TUẦN THÁNH. TƯỞNG NIỆM CUỘC THƯƠNG KHÓ CỦA CHÚA GIÊSU. Buộc giữ chay và kiêng thịt",
+      "bai_doc": "Lễ sáng: Is 61,1-3a.6a.8b-9 ; Kh 1,5-8 ; Lc 4, 16-21. Lễ chiều: Xh 12,1-8.11-14 ; 1 Cr 11,23-26 ; Ga 13,1-15 (Tr)"
+    },
+    {
+      "ngay": {
+        "original": "19/04",
+        "slash": "19/4",
+        "dot": "19.4",
+        "text": "19 tháng 4"
+      },
+      "loai_le": "Lễ thường",
+      "ten_le": "THỨ BẢY TUẦN THÁNH",
+      "bai_doc": "Is 52,13–53,12 ; Dt 4,14-16 ; 5,7-9 ; Ga 18,1–19,42 (Đ)"
+    },
+    {
+      "ngay": {
+        "original": "20/04",
+        "slash": "20/4",
+        "dot": "20.4",
+        "text": "20 tháng 4"
+      },
+      "loai_le": "Lễ Trọng",
+      "ten_le": "CHÚA NHẬT PHỤC SINH. MỪNG CHÚA GIÊSU SỐNG LẠI",
+      "bai_doc": "Canh thức Vượt Qua: 1) St 1,1–2,2 (hay St 1,1.26-31a) 2) St 22,1-18 (hay St 22,1-2.9a.10-13.15-18) 3) Xh 14,15–15,1a. 4) Is 54,5-14. 5) Is 55,1-11. 6) Br 3,9-15.32–4,4. 7) Ed 36,16-17a.18-28. 8) Rm 6,3-11. 9) Lc 24,1-12. Chính ngày: THÁNH LỄ CHÚA NHẬT PHỤC SINH. Cv 10,34a.37-43 ; Cl 3,1-4 (hay 1 Cr 5,6b-8) ; Ga 20,1-9 (hay Mc 16,1-8). (Thánh lễ chiều có thể đọc: Lc 24,13-35). (Tr)"
+    },
+    {
+      "ngay": {
+        "original": "21/04",
+        "slash": "21/4",
+        "dot": "21.4",
+        "text": "21 tháng 4"
+      },
+      "loai_le": "Lễ thường",
+      "ten_le": "Tuần Bát Nhật Phục Sinh",
+      "bai_doc": "Cv 2,14.22-32 ; Mt 28,8-15 (Tr)"
+    },
+    {
+      "ngay": {
+        "original": "22/04",
+        "slash": "22/4",
+        "dot": "22.4",
+        "text": "22 tháng 4"
+      },
+      "loai_le": "Lễ thường",
+      "ten_le": "Tuần Bát Nhật Phục Sinh",
+      "bai_doc": ""
+    },
+    {
+      "ngay": {
+        "original": "23/04",
+        "slash": "23/4",
+        "dot": "23.4",
+        "text": "23 tháng 4"
+      },
+      "loai_le": "Lễ thường",
+      "ten_le": "Tuần Bát Nhật Phục Sinh",
+      "bai_doc": "Cv 3,1-10 ; Lc 24,13-35 (Tr)"
+    },
+    {
+      "ngay": {
+        "original": "24/04",
+        "slash": "24/4",
+        "dot": "24.4",
+        "text": "24 tháng 4"
+      },
+      "loai_le": "Lễ thường",
+      "ten_le": "Tuần Bát Nhật Phục Sinh",
+      "bai_doc": "Cv 3,11-26 ; Lc 24,35-48 (Tr)"
+    },
+    {
+      "ngay": {
+        "original": "25/04",
+        "slash": "25/4",
+        "dot": "25.4",
+        "text": "25 tháng 4"
+      },
+      "loai_le": "Lễ thường",
+      "ten_le": "Tuần Bát Nhật Phục Sinh",
+      "bai_doc": "Cv 4,1-12 ; Ga 21,1-14 (Tr)"
+    },
+    {
+      "ngay": {
+        "original": "26/04",
+        "slash": "26/4",
+        "dot": "26.4",
+        "text": "26 tháng 4"
+      },
+      "loai_le": "Lễ thường",
+      "ten_le": "Tuần Bát Nhật Phục Sinh",
+      "bai_doc": "Cv 4,13-21 ; Mc 16,9-15 (Tr)"
+    },
+    {
+      "ngay": {
+        "original": "27/04",
+        "slash": "27/4",
+        "dot": "27.4",
+        "text": "27 tháng 4"
+      },
+      "loai_le": "Lễ Trọng",
+      "ten_le": "CHÚA NHẬT II PHỤC SINH. CHÚA NHẬT VỀ LÒNG THƯƠNG XÓT CỦA THIÊN CHÚA",
+      "bai_doc": "Cv 5,12-16 ; Kh 1,9-11a.12-13.17-19 ; Ga 20,19-31 (Tr)"
+    },
+    {
+      "ngay": {
+        "original": "28/04",
+        "slash": "28/4",
+        "dot": "28.4",
+        "text": "28 tháng 4"
+      },
+      "loai_le": "Lễ thường",
+      "ten_le": "Thánh vịnh tuần II. Thánh Phêrô Chanel, linh mục, tử đạo. Thánh Luy Grignion Montfort, linh mục. Thánh Phaolô Phạm Khắc Khoan, linh mục. Thánh Phêrô Nguyễn Văn Hiếu và thánh Gioan Baotixita Đinh Văn Thành, thầy giảng, tử đạo (1840)",
+      "bai_doc": "Cv 4,23-31 ; Ga 3,1-8 (Tr)"
+    },
+    {
+      "ngay": {
+        "original": "29/04",
+        "slash": "29/4",
+        "dot": "29.4",
+        "text": "29 tháng 4"
+      },
+      "loai_le": "Lễ nhớ",
+      "ten_le": "Thánh Catarina Siêna, trinh nữ, tiến sĩ Hội Thánh",
+      "bai_doc": "Cv 4,32-37 ; Ga 3,7b-15. (Tr)"
+    },
+    {
+      "ngay": {
+        "original": "30/04",
+        "slash": "30/4",
+        "dot": "30.4",
+        "text": "30 tháng 4"
+      },
+      "loai_le": "Lễ thường",
+      "ten_le": "Thánh Piô V, Giáo hoàng",
+      "bai_doc": "Cv 5,17-26 ; Ga 3,16-21 (Tr)"
+    },
+    {
+        "ngay": {
+        "original": "01/05",
+        "slash": "1/5",
+        "dot": "1.5",
+        "text": "1 tháng 5"
+        },
+        "loai_le": "Lễ nhớ",
+        "ten_le": "Thánh Giuse Thợ",
+        "bai_doc": "St 1,26–2,3 hay Cl 3,14-15.17.23-24 ; Mt 13,54-58 (Tr)"
+    },
+    {
+        "ngay": {
+        "original": "02/05",
+        "slash": "2/5",
+        "dot": "2.5",
+        "text": "2 tháng 5"
+        },
+        "loai_le": "Lễ nhớ",
+        "ten_le": "Thánh Athanasiô, giám mục, tiến sĩ Hội Thánh.",
+        "bai_doc": "Cv 5,34-42 ; Ga 6,1-15 (Tr)"
+    },
+    {
+        "ngay": {
+        "original": "03/05",
+        "slash": "3/5",
+        "dot": "3.5",
+        "text": "3 tháng 5"
+        },
+        "loai_le": "Lễ kính",
+        "ten_le": "THÁNH PHILIPPHÊ VÀ THÁNH GIACÔBÊ, TÔNG ĐỒ",
+        "bai_doc": "1 Cr 15,1-8 ; Ga 14,6-14 (Đ)"
+    },
+    {
+        "ngay": {
+        "original": "04/05",
+        "slash": "4/5",
+        "dot": "4.5",
+        "text": "4 tháng 5"
+        },
+        "loai_le": "Lễ Trọng",
+        "ten_le": "CHÚA NHẬT III PHỤC SINH. Thánh Vịnh Tuần III",
+        "bai_doc": "Cv 5,27-32.40b-41 ; Kh 5,11-14 ; Ga 21,1-19 (hay Ga 21,1-14) (Tr)"
+    },
+    {
+        "ngay": {
+        "original": "05/05",
+        "slash": "5/5",
+        "dot": "5.5",
+        "text": "5 tháng 5"
+        },
+        "loai_le": "Lễ thường",
+        "ten_le": "Thứ Hai trong tuần thứ Ba Mùa Phục Sinh",
+        "bai_doc": "Cv 6,8-15 ; Ga 6,22-29 (Tr)"
+    },
+    {
+        "ngay": {
+        "original": "06/05",
+        "slash": "6/5",
+        "dot": "6.5",
+        "text": "6 tháng 5"
+        },
+        "loai_le": "Lễ thường",
+        "ten_le": "Thứ Ba trong tuần thứ Ba Mùa Phục Sinh",
+        "bai_doc": "Cv 7,51–8,1a; Ga 6,30-35 (Tr)"
+    },
+    {
+        "ngay": {
+        "original": "07/05",
+        "slash": "7/5",
+        "dot": "7.5",
+        "text": "7 tháng 5"
+        },
+        "loai_le": "Lễ thường",
+        "ten_le": "Thứ Tư trong tuần thứ Ba Mùa Phục Sinh",
+        "bai_doc": "Cv 8,1b-8 ; Ga 6,35-40 (Tr)"
+    },
+    {
+        "ngay": {
+        "original": "08/05",
+        "slash": "8/5",
+        "dot": "8.5",
+        "text": "8 tháng 5"
+        },
+        "loai_le": "Lễ thường",
+        "ten_le": "Thứ Năm trong tuần thứ Ba Mùa Phục Sinh",
+        "bai_doc": "Cv 8,26-40 ; Ga 6,44-51 (Tr)"
+    },
+    {
+        "ngay": {
+        "original": "09/05",
+        "slash": "9/5",
+        "dot": "9.5",
+        "text": "9 tháng 5"
+        },
+        "loai_le": "Lễ thường",
+        "ten_le": "Thánh Gioan I, giáo hoàng, tử đạo. Thánh Giuse Ngô Duy Hiển, linh mục, tử đạo († 1840)",
+        "bai_doc": "Cv 9,1-20 ; Ga 6,52-59 (Tr)"
+    },
+    {
+        "ngay": {
+        "original": "10/05",
+        "slash": "10/5",
+        "dot": "10.5",
+        "text": "10 tháng 5"
+        },
+        "loai_le": "Lễ thường",
+        "ten_le": "Thánh Gioan Avila, linh mục, tiến sĩ Hội Thánh",
+        "bai_doc": "Cv 9,31-42 ; Ga 6,51.60-69 (Tr)"
+    },
+    {
+        "ngay": {
+        "original": "11/05",
+        "slash": "11/5",
+        "dot": "11.5",
+        "text": "11 tháng 5"
+        },
+        "loai_le": "Lễ thường",
+        "ten_le": "CHÚA NHẬT IV PHỤC SINH. Thánh vịnh tuần IV. CHÚA NHẬT CHÚA CHIÊN LÀNH. Cầu cho ơn thiên triệu linh mục và tu sĩ",
+        "bai_doc": "Cv 13,14.43-52 ; Kh 7,9.14b-17 ; Ga 10,27-30 (Tr)"
+    },
+    {
+        "ngay": {
+        "original": "12/05",
+        "slash": "12/5",
+        "dot": "12.5",
+        "text": "12 tháng 5"
+        },
+        "loai_le": "Lễ thường",
+        "ten_le": "Thánh Nêrêô và thánh Achilêô, tử đạo. Thánh Pancratiô, tử đạo",
+        "bai_doc": "Cv 11,1-18 ; Ga 10,1-10 (Tr)"
+    },
+    {
+        "ngay": {
+        "original": "13/05",
+        "slash": "13/5",
+        "dot": "13.5",
+        "text": "13 tháng 5"
+        },
+        "loai_le": "Lễ thường",
+        "ten_le": "Đức Mẹ Fatima",
+        "bai_doc": "Cv 11,19-26 ; Ga 10,22-30. Lễ Đức Mẹ: Is 61,9-11 ; Lc 11,27-28 (Tr)"
+    },
+    {
+        "ngay": {
+        "original": "14/05",
+        "slash": "14/5",
+        "dot": "14.5",
+        "text": "14 tháng 5"
+        },
+        "loai_le": "Lễ kính",
+        "ten_le": "THÁNH MATTHIA, TÔNG ĐỒ",
+        "bai_doc": "Cv 1,15-17.20-26 ; Ga 15,9-17 (Đ)"
+    },
+    {
+        "ngay": {
+        "original": "15/05",
+        "slash": "15/5",
+        "dot": "15.5",
+        "text": "15 tháng 5"
+        },
+        "loai_le": "Lễ thường",
+        "ten_le": "Thứ Năm trong tuần thứ Tư Mùa Phục Sinh",
+        "bai_doc": "Cv 13,13-25 ; Ga 13,16-20 (Tr)"
+    },
+    {
+        "ngay": {
+        "original": "16/05",
+        "slash": "16/5",
+        "dot": "16.5",
+        "text": "16 tháng 5"
+        },
+        "loai_le": "Lễ thường",
+        "ten_le": "Thứ Sáu trong tuần thứ Tư Mùa Phục Sinh",
+        "bai_doc": "Cv 13,26-33 ; Ga 14,1-6 (Tr)"
+    },
+    {
+        "ngay": {
+        "original": "17/05",
+        "slash": "17/5",
+        "dot": "17.5",
+        "text": "17 tháng 5"
+        },
+        "loai_le": "Lễ thường",
+        "ten_le": "Thứ Bảy trong tuần thứ Tư Mùa Phục Sinh",
+        "bai_doc": "Cv 13, 44-52 ; Ga 14,7-14 (Tr)"
+    },
+    {
+        "ngay": {
+        "original": "18/05",
+        "slash": "18/5",
+        "dot": "18.5",
+        "text": "18 tháng 5"
+        },
+        "loai_le": "Lễ thường",
+        "ten_le": "CHÚA NHẬT V PHỤC SINH. Thánh Vịnh Tuần I",
+        "bai_doc": "Cv 14,21b-27 ; Kh 21,1-5a ; Ga 13,31-33a.34-35 (Tr)"
+    },
+    {
+        "ngay": {
+        "original": "19/05",
+        "slash": "19/5",
+        "dot": "19.5",
+        "text": "19 tháng 5"
+        },
+        "loai_le": "Lễ thường",
+        "ten_le": "Thứ Hai trong tuần thứ Năm Mùa Phục Sinh",
+        "bai_doc": "Cv 14,5-18 ; Ga 14,21-26 (Tr)"
+    },
+    {
+        "ngay": {
+        "original": "20/05",
+        "slash": "20/5",
+        "dot": "20.5",
+        "text": "20 tháng 5"
+        },
+        "loai_le": "Lễ thường",
+        "ten_le": "Thánh Bernarđinô Siêna, linh mục",
+        "bai_doc": "Cv 14,19-28 ; Ga 14,27-31a (Tr)"
+    },
+    {
+        "ngay": {
+        "original": "21/05",
+        "slash": "21/5",
+        "dot": "21.5",
+        "text": "21 tháng 5"
+        },
+        "loai_le": "Lễ thường",
+        "ten_le": "Thánh Christôphôrô Magalla-nes, linh mục và các bạn, tử đạo",
+        "bai_doc": "Cv 15,1-6 ; Ga 15,1-8 ()"
+    },
+    {
+        "ngay": {
+        "original": "22/05",
+        "slash": "22/5",
+        "dot": "22.5",
+        "text": "22 tháng 5"
+        },
+        "loai_le": "Lễ thường",
+        "ten_le": "Thánh Rita Cascia, nữ tu. Thánh Micae Hồ Đình Hy, quan thái bộc, tử đạo († 1857); thánh Laurensô Phạm Viết Ngôn, giáo dân, tử đạo († 1862)",
+        "bai_doc": "Cv 15,7-21 ; Ga 15,9-11 (Tr)"
+    },
+    {
+        "ngay": {
+        "original": "23/05",
+        "slash": "23/5",
+        "dot": "23.5",
+        "text": "23 tháng 5"
+        },
+        "loai_le": "Lễ thường",
+        "ten_le": "Thứ Sáu trong tuần thứ Năm Mùa Phục Sinh",
+        "bai_doc": "Cv 15,22-31 ; Ga 15,12-17 (Tr)"
+    },
+    {
+        "ngay": {
+        "original": "24/05",
+        "slash": "24/5",
+        "dot": "24.5",
+        "text": "24 tháng 5"
+        },
+        "loai_le": "Lễ thường",
+        "ten_le": "Thứ Bảy trong tuần thứ Năm Mùa Phục Sinh",
+        "bai_doc": "Cv 16,1-10 ; Ga 15,18-21 (Tr)"
+    },
+    {
+        "ngay": {
+        "original": "25/05",
+        "slash": "25/5",
+        "dot": "25.5",
+        "text": "25 tháng 5"
+        },
+        "loai_le": "Lễ thường",
+        "ten_le": "CHÚA NHẬT VI PHỤC SINH. Thánh Vịnh Tuần II",
+        "bai_doc": "Cv 15,1-2.22-29 ; Kh 21,10-14.22-23 ; Ga 14,23-29 (Tr)"
+    },
+    {
+        "ngay": {
+        "original": "26/05",
+        "slash": "26/5",
+        "dot": "26.5",
+        "text": "26 tháng 5"
+        },
+        "loai_le": "Lễ nhớ",
+        "ten_le": "Thánh Philipphê Nêri, linh mục.",
+        "bai_doc": "Cv 16,11-15 ; Ga 15,26–16,4a (Tr)"
+    },
+    {
+        "ngay": {
+        "original": "27/05",
+        "slash": "27/5",
+        "dot": "27.5",
+        "text": "27 tháng 5"
+        },
+        "loai_le": "Lễ thường",
+        "ten_le": "Thánh Augustinô Cantuariô, giám mục",
+        "bai_doc": "Cv 16,22-34 ; Ga 16,5-11 (Tr)"
+    },
+    {
+        "ngay": {
+        "original": "28/05",
+        "slash": "28/5",
+        "dot": "28.5",
+        "text": "28 tháng 5"
+        },
+        "loai_le": "Lễ vọng",
+        "ten_le": "Thánh Phaolô Trần Văn Hạnh, giáo dân, tử đạo († 1859). Chiều: LỄ VỌNG CHÚA GIÊSU LÊN TRỜI",
+        "bai_doc": "Cv 17,15.22–18,1 ; Ga 16,12-15. Lễ vọng: bài đọc chính ngày lễ (Tr)"
+    },
+    {
+        "ngay": {
+        "original": "29/05",
+        "slash": "29/5",
+        "dot": "29.5",
+        "text": "29 tháng 5"
+        },
+        "loai_le": "Lễ trọng",
+        "ten_le": "CHÚA GIÊSU LÊN TRỜI",
+        "bai_doc": "Cv 1,1-11 ; Dt 9,24-28 ; 10,19-23 ; (hay Ep 1,17-23) ; Lc 24,46-53 (Tr)"
+    },
+    {
+        "ngay": {
+        "original": "30/05",
+        "slash": "30/5",
+        "dot": "30.5",
+        "text": "30 tháng 5"
+        },
+        "loai_le": "Lễ thường",
+        "ten_le": "Thứ Sáu trong tuần thứ Sáu Mùa Phục Sinh",
+        "bai_doc": "Cv 18,9-18 ; Ga 16,20-23a (Tr)"
+    },
+    {
+        "ngay": {
+        "original": "31/05",
+        "slash": "31/5",
+        "dot": "31.5",
+        "text": "31 tháng 5"
+        },
+        "loai_le": "Lễ kính",
+        "ten_le": "ĐỨC MARIA THĂM VIẾNG BÀ ÊLISABETH",
+        "bai_doc": "Xp 3,14-18a (hay Rm 12,9-16b) ; Lc 1,39-56 (Tr)"
+    },
+    {
+        "ngay": {
+          "original": "01/06",
+          "slash": "1/6",
+          "dot": "1.6",
+          "text": "1 tháng 6"
+        },
+        "loai_le": "Lễ thường",
+        "ten_le": "CHÚA NHẬT VII PHỤC SINH. Thánh Vịnh Tuần III",
+        "bai_doc": "Cv 7,55-60 ; Kh 22,12-14.16-17.20 ; Ga 17,20-26 (Tr)"
+      },
+      {
+        "ngay": {
+          "original": "02/06",
+          "slash": "2/6",
+          "dot": "2.6",
+          "text": "2 tháng 6"
+        },
+        "loai_le": "Lễ thường",
+        "ten_le": "Thánh Marcellinô và thánh Phêrô, tử đạo. Thánh Đaminh Trần Duy Ninh, giáo dân, tử đạo († 1862)",
+        "bai_doc": "Cv 19,1-8 ; Ga 16,29-33 (Tr)"
+      },
+      {
+        "ngay": {
+          "original": "03/06",
+          "slash": "3/6",
+          "dot": "3.6",
+          "text": "3 tháng 6"
+        },
+        "loai_le": "Lễ nhớ",
+        "ten_le": "Thánh Carôlô Lwanga và các bạn, tử đạo.",
+        "bai_doc": "Cv 20,17-27 ; Ga 17,1-11a (Đ)"
+      },
+      {
+        "ngay": {
+          "original": "04/06",
+          "slash": "4/6",
+          "dot": "4.6",
+          "text": "4 tháng 6"
+        },
+        "loai_le": "Lễ thường",
+        "ten_le": "Thánh Phêrô Vêrôna, linh mục, tử đạo",
+        "bai_doc": "Cv 20,28-38 ; Ga 17,11b-19 (Tr)"
+      },
+      {
+        "ngay": {
+          "original": "05/06",
+          "slash": "5/6",
+          "dot": "5.6",
+          "text": "5 tháng 6"
+        },
+        "loai_le": "Lễ thường",
+        "ten_le": "Thánh Bônifatiô, giám mục, tử đạo, Thánh Luca Vũ Bá Loan, linh mục († 1840); thánh Đaminh Trần Văn Toại (Toái), ngư phủ; thánh Đaminh Nguyễn Văn Huyên (Huyện), ngư phủ, tử đạo († 1862)",
+        "bai_doc": "Cv 22,30 ; 23,6-11 ; Ga 17,20-26 (Đ)"
+      },
+      {
+        "ngay": {
+          "original": "06/06",
+          "slash": "6/6",
+          "dot": "6.6",
+          "text": "6 tháng 6"
+        },
+        "loai_le": "Lễ thường",
+        "ten_le": "Thánh Norbertô, giám mục. Thánh Phêrô Đinh Văn Dũng, ngư phủ; thánh Phêrô Đinh Văn Thuần, ngư phủ; thánh Vinh Sơn Phạm Văn Dương, thu thuế, tử đạo († 1862)",
+        "bai_doc": "Cv 25,13b-21 ; Ga 21,15-19 (Tr)"
+      },
+      {
+        "ngay": {
+          "original": "07/06",
+          "slash": "7/6",
+          "dot": "7.6",
+          "text": "7 tháng 6"
+        },
+        "loai_le": "Lễ vọng",
+        "ten_le": "Thánh Giuse Trần Văn Tuấn, nông dân, tử đạo († 1862). Ban chiều: LỄ VỌNG CHÚA THÁNH THẦN HIỆN XUỐNG (Đ)",
+        "bai_doc": "Ban sáng: Cv 28,16-20.30-31 ; Ga 21,20-25. St 11,1-9 (hay Xh 19,3-8a.16-20b hay Ed 37,1-14 hay Ge 3,1-5) ; Rm 8,22-27 ; Ga 7,37-39 (Tr)"
+      },
+      {
+        "ngay": {
+          "original": "08/06",
+          "slash": "8/6",
+          "dot": "8.6",
+          "text": "8 tháng 6"
+        },
+        "loai_le": "Lễ trọng",
+        "ten_le": "CHÚA THÁNH THẦN HIỆN XUỐNG",
+        "bai_doc": "Cv 2,1-11 ; 1 Cr 12,3b-7.12-13 (hay Rm 8,8-17) ; Ga 20,19-23 (hay Ga 14,15-16.23b-26) (Đ)"
+      },
+      {
+        "ngay": {
+          "original": "09/06",
+          "slash": "9/6",
+          "dot": "9.6",
+          "text": "9 tháng 6"
+        },
+        "loai_le": "Lễ nhớ",
+        "ten_le": "Tuần X Thường Niên. Thánh vịnh tuần II. Đức Trinh Nữ Maria, Mẹ Hội Thánh",
+        "bai_doc": "St 3,9-15.20 (hay Cv 1,12-14) ; Ga 19,25-34 (Tr)"
+      },
+      {
+        "ngay": {
+          "original": "10/06",
+          "slash": "10/6",
+          "dot": "10.6",
+          "text": "10 tháng 6"
+        },
+        "loai_le": "Lễ thường",
+        "ten_le": "Thứ Ba trong tuần thứ Mười Mùa Quanh Năm",
+        "bai_doc": "2 Cr 1,18-22 ; Mt 5,13-16 (X)"
+      },
+      {
+        "ngay": {
+          "original": "11/06",
+          "slash": "11/6",
+          "dot": "11.6",
+          "text": "11 tháng 6"
+        },
+        "loai_le": "Lễ kính",
+        "ten_le": "THÁNH BARNABA, TÔNG ĐỒ",
+        "bai_doc": "Cv 11,21b-26 ; 13,1-3 ; Mt 10,6-13 (Đ)"
+      },
+      {
+        "ngay": {
+          "original": "12/06",
+          "slash": "12/6",
+          "dot": "12.6",
+          "text": "12 tháng 6"
+        },
+        "loai_le": "Lễ thường",
+        "ten_le": "Thứ Năm trong tuần thứ Mười Mùa Quanh Năm",
+        "bai_doc": "2 Cr 3,15–4,1.3-6 ; Mt 5,20-26 (X)"
+      },
+      {
+        "ngay": {
+          "original": "13/06",
+          "slash": "13/6",
+          "dot": "13.6",
+          "text": "13 tháng 6"
+        },
+        "loai_le": "Lễ nhớ",
+        "ten_le": "Thánh Antôn Pađôva, linh mục, tiến sĩ Hội Thánh",
+        "bai_doc": "2 Cr 4,7-15 ; Mt 5,27-32 (Tr)"
+      },
+      {
+        "ngay": {
+          "original": "14/06",
+          "slash": "14/6",
+          "dot": "14.6",
+          "text": "14 tháng 6"
+        },
+        "loai_le": "Lễ thường",
+        "ten_le": "Thứ Bảy trong tuần thứ Mười Mùa Quanh Năm",
+        "bai_doc": "2 Cr 5,14-21 ; Mt 5,33-37 (X)"
+      },
+      {
+        "ngay": {
+          "original": "15/06",
+          "slash": "15/6",
+          "dot": "15.6",
+          "text": "15 tháng 6"
+        },
+        "loai_le": "Lễ trọng",
+        "ten_le": "LỄ CHÚA BA NGÔI",
+        "bai_doc": "Cn 8,22-31 ; Rm 5,1-5 ; Ga 16,12-15 (Tr)"
+      },
+      {
+        "ngay": {
+          "original": "16/06",
+          "slash": "16/6",
+          "dot": "16.6",
+          "text": "16 tháng 6"
+        },
+        "loai_le": "Lễ thường",
+        "ten_le": "Thánh vịnh tuần III. Thánh Đaminh Nguyễn Huy Nguyên, chánh trương; thánh Đaminh Nguyễn Đức Nhi, giáo dân; thánh Đaminh Nguyễn Đức Mạo, giáo dân; thánh Vinh Sơn Nguyễn Mạnh Tương, chánh tổng; thánh Anrê Nguyễn Mạnh Tường, giáo dân, tử đạo († 1862)",
+        "bai_doc": "2 Cr 6,1-10 ; Mt 5,38-42 (X)"
+      },
+      {
+        "ngay": {
+          "original": "17/06",
+          "slash": "17/6",
+          "dot": "17.6",
+          "text": "17 tháng 6"
+        },
+        "loai_le": "Lễ thường",
+        "ten_le": "Thánh Phêrô Phan Hữu Đa, thợ mộc, tử đạo († 1862)",
+        "bai_doc": "2 Cr 8,1-9 ; Mt 5,43-48 (X)"
+      },
+      {
+        "ngay": {
+          "original": "18/06",
+          "slash": "18/6",
+          "dot": "18.6",
+          "text": "18 tháng 6"
+        },
+        "loai_le": "Lễ thường",
+        "ten_le": "Thứ Tư trong tuần thứ Mười Một Mùa Quanh Năm",
+        "bai_doc": "2 Cr 9,6-11 ; Mt 6,1-6.16-18 (X)"
+      },
+      {
+        "ngay": {
+          "original": "19/06",
+          "slash": "19/6",
+          "dot": "19.6",
+          "text": "19 tháng 6"
+        },
+        "loai_le": "Lễ thường",
+        "ten_le": "Thánh Rômualđô, viện phụ",
+        "bai_doc": "2 Cr 11,1-11 ; Mt 6,7-15 (X)"
+      },
+      {
+        "ngay": {
+          "original": "20/06",
+          "slash": "20/6",
+          "dot": "20.6",
+          "text": "20 tháng 6"
+        },
+        "loai_le": "Lễ thường",
+        "ten_le": "Thứ Sáu trong tuần thứ Mười Một Mùa Quanh Năm",
+        "bai_doc": "2 Cr 11,18.21b-30 ; Mt 6,19-23 (X)"
+      },
+      {
+        "ngay": {
+          "original": "21/06",
+          "slash": "21/6",
+          "dot": "21.6",
+          "text": "21 tháng 6"
+        },
+        "loai_le": "Lễ nhớ",
+        "ten_le": "Thánh Luy Gônzaga, tu sĩ",
+        "bai_doc": "2 Cr 12,1-10 ; Mt 6,24-34 (Tr)"
+      },
+      {
+        "ngay": {
+          "original": "22/06",
+          "slash": "22/6",
+          "dot": "22.6",
+          "text": "22 tháng 6"
+        },
+        "loai_le": "Lễ trọng",
+        "ten_le": "MÌNH VÀ MÁU THÁNH CHÚA KITÔ",
+        "bai_doc": "St 14,18-20 ; 1 Cr 11, 23-26 ; Lc 9, 11b-17 (Tr)"
+      },
+      {
+        "ngay": {
+          "original": "23/06",
+          "slash": "23/6",
+          "dot": "23.6",
+          "text": "23 tháng 6"
+        },
+        "loai_le": "Lễ vọng",
+        "ten_le": "Thánh vịnh tuần IV. Ban chiều: LỄ VỌNG SINH NHẬT THÁNH GIOAN TẨY GIẢ (Tr)",
+        "bai_doc": "Ban sáng: St 12,1-9 ; Mt 7,1-5. Ban chiều: Gr 1,4-10 ; 1 Pr 1,8-12 ; Lc 1,5-17 (X)"
+      },
+      {
+        "ngay": {
+          "original": "24/06",
+          "slash": "24/6",
+          "dot": "24.6",
+          "text": "24 tháng 6"
+        },
+        "loai_le": "Lễ trọng",
+        "ten_le": "SINH NHẬT THÁNH GIOAN TẨY GIẢ",
+        "bai_doc": "Is 49,1-6 ; Cv 13,22-26 ; Lc 1,57-66.80 (Tr)"
+      },
+      {
+        "ngay": {
+          "original": "25/06",
+          "slash": "25/6",
+          "dot": "25.6",
+          "text": "25 tháng 6"
+        },
+        "loai_le": "Lễ thường",
+        "ten_le": "Thứ Tư trong tuần thứ Mười Hai Mùa Quanh Năm",
+        "bai_doc": "St 15,1-12.17-18 ; Mt 7,15-20 (X)"
+      },
+      {
+        "ngay": {
+          "original": "26/06",
+          "slash": "26/6",
+          "dot": "26.6",
+          "text": "26 tháng 6"
+        },
+        "loai_le": "Lễ thường",
+        "ten_le": "Thánh Dumingo Henares Minh, giám mục, tử đạo. Thánh Phanxicô Xaviê Đỗ Văn Chiểu, thầy giảng, tử đạo († 1838)",
+        "bai_doc": "St 16,1-12.15-16 ; Mt 7,21-29 (X)"
+      },
+      {
+        "ngay": {
+          "original": "27/06",
+          "slash": "27/6",
+          "dot": "27.6",
+          "text": "27 tháng 6"
+        },
+        "loai_le": "Lễ trọng",
+        "ten_le": "THÁNH TÂM CHÚA GIÊSU",
+        "bai_doc": "Ed 34,11-16 ; Rm 5,5b-11 ; Lc 15,3-7 ()"
+      },
+      {
+        "ngay": {
+          "original": "28/06",
+          "slash": "28/6",
+          "dot": "28.6",
+          "text": "28 tháng 6"
+        },
+        "loai_le": "Lễ nhớ",
+        "ten_le": "Trái Tim Vô Nhiễm Nguyên Tội Đức Trinh Nữ Maria. Ban chiều: LỄ VỌNG THÁNH PHÊRÔ VÀ THÁNH PHAOLÔ, TÔNG ĐỒ (Đ)",
+        "bai_doc": "Ban sáng: Is 61,9-11 ; Lc 2,41-51. Ban chiều: Cv 3,1-10 ; GI 1,11-20 ; Ga 21,15-19 (Tr)"
+      },
+      {
+        "ngay": {
+          "original": "29/06",
+          "slash": "29/6",
+          "dot": "29.6",
+          "text": "29 tháng 6"
+        },
+        "loai_le": "Lễ trọng",
+        "ten_le": "THÁNH PHÊRÔ VÀ THÁNH PHAOLÔ, TÔNG ĐỒ",
+        "bai_doc": "Cv 12,1-11 ; 2 Tm 4,6-8.17-18 ; Mt 16,13-19 (Đ)"
+      },
+      {
+        "ngay": {
+          "original": "30/06",
+          "slash": "30/6",
+          "dot": "30.6",
+          "text": "30 tháng 6"
+        },
+        "loai_le": "Lễ thường",
+        "ten_le": "Các thánh tử đạo tiên khởi của giáo đoàn Rôma. Thánh Vinh Sơn Đỗ Yến, linh mục, tử đạo († 1838)",
+        "bai_doc": "St 18,16-33 ; Mt 8,18-22 (Đ)"
+      },
+      
+  {
+    "ngay": {
+      "original": "01/07",
+      "slash": "1/7",
+      "dot": "1.7",
+      "text": "1 tháng 7"
+    },
+    "loai_le": "Lễ thường",
+    "ten_le": "Thứ Ba trong tuần thứ Mười Ba Mùa Quanh Năm",
+    "bai_doc": "St 19,15-29 ; Mt 8,23-27 (X)"
+  },
+  {
+    "ngay": {
+      "original": "02/07",
+      "slash": "2/7",
+      "dot": "2.7",
+      "text": "2 tháng 7"
+    },
+    "loai_le": "Lễ thường",
+    "ten_le": "Thứ Tư trong tuần thứ Mười Ba Mùa Quanh Năm",
+    "bai_doc": "St 21,5.8-20 ; Mt 8,28-34 (X)"
+  },
+  {
+    "ngay": {
+      "original": "03/07",
+      "slash": "3/7",
+      "dot": "3.7",
+      "text": "3 tháng 7"
+    },
+    "loai_le": "Lễ kính",
+    "ten_le": "THÁNH TÔMA, TÔNG ĐỒ",
+    "bai_doc": "Ep 2,19-22 ; Ga 20,24-29 (Đ)"
+  },
+  {
+    "ngay": {
+      "original": "04/07",
+      "slash": "4/7",
+      "dot": "4.7",
+      "text": "4 tháng 7"
+    },
+    "loai_le": "Lễ thường",
+    "ten_le": "Thánh nữ Êlisabeth Bồ Đào Nha. Thánh Giuse Nguyễn Đình Uyển, thầy giảng, tử đạo († 1838)",
+    "bai_doc": "St 23,1-4.19 ; 24,1-8.62-67 ; Mt 9,9-13 (X)"
+  },
+  {
+    "ngay": {
+      "original": "05/07",
+      "slash": "5/7",
+      "dot": "5.7",
+      "text": "5 tháng 7"
+    },
+    "loai_le": "Lễ thường",
+    "ten_le": "Thánh Antôn Maria Zaccaria, linh mục",
+    "bai_doc": "St 27,1-5.15-29 . Mt 9,14-17 (X)"
+  },
+  {
+    "ngay": {
+      "original": "06/07",
+      "slash": "6/7",
+      "dot": "6.7",
+      "text": "6 tháng 7"
+    },
+    "loai_le": "Lễ trọng",
+    "ten_le": "Chúa Nhật thứ Mười Bốn Mùa Quanh Năm",
+    "bai_doc": "Is 66,10-14c ; Gl 6,14-18 ; Lc 10,1-12. 17-20 (hay Lc 10,1-9) (X)"
+  },
+  {
+    "ngay": {
+      "original": "07/07",
+      "slash": "7/7",
+      "dot": "7.7",
+      "text": "7 tháng 7"
+    },
+    "loai_le": "Lễ thường",
+    "ten_le": "Thứ Hai trong tuần thứ Mười Bốn Mùa Quanh Năm",
+    "bai_doc": "St 28,10-22a ; Mt 9,18-26 (X)"
+  },
+  {
+    "ngay": {
+      "original": "08/07",
+      "slash": "8/7",
+      "dot": "8.7",
+      "text": "8 tháng 7"
+    },
+    "loai_le": "Lễ thường",
+    "ten_le": "Thứ Ba trong tuần thứ Mười Bốn Mùa Quanh Năm",
+    "bai_doc": "St 32,22-32 ; Mt 9,32-38 (X)"
+  },
+  {
+    "ngay": {
+      "original": "09/07",
+      "slash": "9/7",
+      "dot": "9.7",
+      "text": "9 tháng 7"
+    },
+    "loai_le": "Lễ thường",
+    "ten_le": "Thánh Augustinô Zhao Rong, linh mục và các bạn, tử đạo",
+    "bai_doc": "St 41,55-57 ; 42,5-7.17-24a ; Mt 10,1-7 (X)"
+  },
+  {
+    "ngay": {
+      "original": "10/07",
+      "slash": "10/7",
+      "dot": "10.7",
+      "text": "10 tháng 7"
+    },
+    "loai_le": "Lễ thường",
+    "ten_le": "Thánh Phêrô Nguyễn Khắc Tự, thầy giảng. Thánh Antôn Nguyễn Hữu Quỳnh (Năm Quỳnh), trùm họ, tử đạo († 1840)",
+    "bai_doc": "St 44,18-21.23b-29 ; 45,1-5 ; Mt 10,7-15 (X)"
+  },
+  {
+    "ngay": {
+      "original": "11/07",
+      "slash": "11/7",
+      "dot": "11.7",
+      "text": "11 tháng 7"
+    },
+    "loai_le": "Lễ nhớ",
+    "ten_le": "Thánh Bênêđictô, viện phụ",
+    "bai_doc": "St 46,1-7.28-30 ; Mt 10,16-23 (Tr)"
+  },
+  {
+    "ngay": {
+      "original": "12/07",
+      "slash": "12/7",
+      "dot": "12.7",
+      "text": "12 tháng 7"
+    },
+    "loai_le": "Lễ thường",
+    "ten_le": "Thánh Ignacio Clemente Delgado Y, giám mục, tử đạo († 1838). Thánh Anê Lê Thị Thành (bà thánh Đê), giáo dân, tử đạo († 1841). Thánh Phêrô Hoàng Khanh, linh mục, tử đạo († 1842)",
+    "bai_doc": "St 49,29-32 ; 50,15-26a ; Mt 10,24-33 (X)"
+  },
+  {
+    "ngay": {
+      "original": "13/07",
+      "slash": "13/7",
+      "dot": "13.7",
+      "text": "13 tháng 7"
+    },
+    "loai_le": "Lễ trọng",
+    "ten_le": "Chúa Nhật thứ Mười Lăm Mùa Quanh Năm",
+    "bai_doc": "Đnl 30,10-14 ; Cl 1,15-20 ; Lc 10,25-37 (X)"
+  },
+  {
+    "ngay": {
+      "original": "14/07",
+      "slash": "14/7",
+      "dot": "14.7",
+      "text": "14 tháng 7"
+    },
+    "loai_le": "Lễ thường",
+    "ten_le": "Thánh Camillô Lellis, linh mục",
+    "bai_doc": "Xh 1,8-14.22 ; Mt 10,34–11,1 (X)"
+  },
+  {
+    "ngay": {
+      "original": "15/07",
+      "slash": "15/7",
+      "dot": "15.7",
+      "text": "15 tháng 7"
+    },
+    "loai_le": "Lễ nhớ",
+    "ten_le": "Thánh Bônaventura, giám mục, tiến sĩ Hội Thánh",
+    "bai_doc": "Xh 2,1-15a ; Mt 11,20-24 ()"
+  },
+  {
+    "ngay": {
+      "original": "16/07",
+      "slash": "16/7",
+      "dot": "16.7",
+      "text": "16 tháng 7"
+    },
+    "loai_le": "Lễ thường",
+    "ten_le": "Đức Mẹ núi Carmêlô (Tr)",
+    "bai_doc": "Xh 3,1-6.9-12 ; Mt 11,25-27. Lễ Đức Mẹ: Dcr 2,14-17; Mt 12,46-50 (X)"
+  },
+  {
+    "ngay": {
+      "original": "17/07",
+      "slash": "17/7",
+      "dot": "17.7",
+      "text": "17 tháng 7"
+    },
+    "loai_le": "Lễ thường",
+    "ten_le": "Thứ Năm trong tuần thứ Mười Lăm Mùa Quanh Năm",
+    "bai_doc": "Xh 3,13-20 ; Mt 11,28-30 (X)"
+  },
+  {
+    "ngay": {
+      "original": "18/07",
+      "slash": "18/7",
+      "dot": "18.7",
+      "text": "18 tháng 7"
+    },
+    "loai_le": "Lễ thường",
+    "ten_le": "Thánh Đaminh Đinh Văn Đạo (Đạt), quân nhân, tử đạo († 1839)",
+    "bai_doc": "Xh 11,10–12,14 ; Mt 12,1-8 (X)"
+  },
+  {
+    "ngay": {
+      "original": "19/07",
+      "slash": "19/7",
+      "dot": "19.7",
+      "text": "19 tháng 7"
+    },
+    "loai_le": "Lễ thường",
+    "ten_le": "Thứ Bảy trong tuần thứ Mười Lăm Mùa Quanh Năm",
+    "bai_doc": "Xh 12,37-42 ; Mt 12,14-21 (X)"
+  },
+  {
+    "ngay": {
+      "original": "20/07",
+      "slash": "20/7",
+      "dot": "20.7",
+      "text": "20 tháng 7"
+    },
+    "loai_le": "Lễ trọng",
+    "ten_le": "Chúa Nhật thứ Mười Sáu Mùa Quanh Năm",
+    "bai_doc": "St 18,1-10a ; Cl 1,24-28 ; Lc 10,38-42 (X)"
+  },
+  {
+    "ngay": {
+      "original": "21/07",
+      "slash": "21/7",
+      "dot": "21.7",
+      "text": "21 tháng 7"
+    },
+    "loai_le": "Lễ thường",
+    "ten_le": "Thánh Laurensô Brinđisi, linh mục",
+    "bai_doc": "Xh 14,5-18 ; Mt 12,38-42 (X)"
+  },
+  {
+    "ngay": {
+      "original": "22/07",
+      "slash": "22/7",
+      "dot": "22.7",
+      "text": "22 tháng 7"
+    },
+    "loai_le": "Lễ kính",
+    "ten_le": "THÁNH NỮ MARIA MAGĐA-LÊNA",
+    "bai_doc": "Dc 3,1-4a (hay 2 Cr 5,14-17) ; Ga 20,1-2.11-18 (Tr)"
+  },
+  {
+    "ngay": {
+      "original": "23/07",
+      "slash": "23/7",
+      "dot": "23.7",
+      "text": "23 tháng 7"
+    },
+    "loai_le": "Lễ thường",
+    "ten_le": "Thánh Birgitta, nữ tu",
+    "bai_doc": "Xh 16,1-5.9-15 ; Mt 13,1-9 (X)"
+  },
+  {
+    "ngay": {
+      "original": "24/07",
+      "slash": "24/7",
+      "dot": "24.7",
+      "text": "24 tháng 7"
+    },
+    "loai_le": "Lễ thường",
+    "ten_le": "Thánh Sarbêliô Makhluf, linh mục. Thánh José Fernandez Hiền, linh mục, tử đạo († 1838)",
+    "bai_doc": "Xh 19,1-2.9-11.16-20b ; Mt 13,10-17 (X)"
+  },
+  {
+    "ngay": {
+      "original": "25/07",
+      "slash": "25/7",
+      "dot": "25.7",
+      "text": "25 tháng 7"
+    },
+    "loai_le": "Lễ kính",
+    "ten_le": "THÁNH GIACÔBÊ, TÔNG ĐỒ",
+    "bai_doc": "2 Cr 4,7-15 ; Mt 20,20-28 (Đ)"
+  },
+  {
+    "ngay": {
+      "original": "26/07",
+      "slash": "26/7",
+      "dot": "26.7",
+      "text": "26 tháng 7"
+    },
+    "loai_le": "Lễ nhớ",
+    "ten_le": "Thánh Joachim và thánh Anna, song thân Đức Maria.",
+    "bai_doc": "Xh 24,3-8 ; Mt 13,24-30. Lễ hai thánh: Hc 44,1.10-15 ; Mt 13,16-17 (Tr)"
+  },
+  {
+    "ngay": {
+      "original": "27/07",
+      "slash": "27/7",
+      "dot": "27.7",
+      "text": "27 tháng 7"
+    },
+    "loai_le": "Lễ trọng",
+    "ten_le": "Chúa Nhật thứ Mười Bảy Mùa Quanh Năm",
+    "bai_doc": "St 18,20-32 ; Cl 2,12-14 ; Lc 11,1-13 (X)"
+  },
+  {
+    "ngay": {
+      "original": "28/07",
+      "slash": "28/7",
+      "dot": "28.7",
+      "text": "28 tháng 7"
+    },
+    "loai_le": "Lễ thường",
+    "ten_le": "Thánh Melchor Garcia Sampedro Xuyên, giám mục, tử đạo († 1858)",
+    "bai_doc": "Xh 32,15-24.30-34 ; Mt 13,31-35 (X)"
+  },
+  {
+    "ngay": {
+      "original": "29/07",
+      "slash": "29/7",
+      "dot": "29.7",
+      "text": "29 tháng 7"
+    },
+    "loai_le": "Lễ nhớ",
+    "ten_le": "Thánh nữ Martha, Maria và Ladarô",
+    "bai_doc": "1 Ga 4,7-16 ; Ga 11,19-27 (hay Lc 10,38-42) (Tr)"
+  },
+  {
+    "ngay": {
+      "original": "30/07",
+      "slash": "30/7",
+      "dot": "30.7",
+      "text": "30 tháng 7"
+    },
+    "loai_le": "Lễ thường",
+    "ten_le": "Thánh Phêrô Kim Ngôn, giám mục, tiến sĩ Hội Thánh",
+    "bai_doc": "Xh 34,29-35 ; Mt 13,44-46 (X)"
+  },
+  {
+    "ngay": {
+      "original": "31/07",
+      "slash": "31/7",
+      "dot": "31.7",
+      "text": "31 tháng 7"
+    },
+    "loai_le": "Lễ nhớ",
+    "ten_le": "Thánh Ignatiô Loyôla, linh mục",
+    "bai_doc": "Xh 40,16-21.34-38 ; Mt 13,47-53 (Tr)"
+  },
+  
+  {
+    "ngay": {
+      "original": "01/08",
+      "slash": "1/8",
+      "dot": "1.8",
+      "text": "1 tháng 8"
+    },
+    "loai_le": "Lễ nhớ",
+    "ten_le": "Thánh Alphongsô Maria Ligôri, giám mục, tiến sĩ Hội Thánh",
+    "bai_doc": "Lv 23,1.4-11.15-16.27.34b-37 ; Mt 13,54-58 (Tr)"
+  },
+  {
+    "ngay": {
+      "original": "02/08",
+      "slash": "2/8",
+      "dot": "2.8",
+      "text": "2 tháng 8"
+    },
+    "loai_le": "Lễ thường",
+    "ten_le": "Thánh Êusêbiô Vercellêsi. Thánh Phêrô Julianô Eymard, linh mục",
+    "bai_doc": "Lv 25,1.8-17 ; Mt 14.1-12 (X)"
+  },
+  {
+    "ngay": {
+      "original": "03/08",
+      "slash": "3/8",
+      "dot": "3.8",
+      "text": "3 tháng 8"
+    },
+    "loai_le": "Lễ trọng",
+    "ten_le": "CHÚA NHẬT XVIII THƯỜNG NIÊN. Thánh vịnh tuần II",
+    "bai_doc": "Gv 1,2 ; 2,21-23 ; Cl 3,1-5.9-11 ; Lc 12,13-21 (X)"
+  },
+  {
+    "ngay": {
+      "original": "04/08",
+      "slash": "4/8",
+      "dot": "4.8",
+      "text": "4 tháng 8"
+    },
+    "loai_le": "Lễ nhớ",
+    "ten_le": "Thánh Gioan Maria Vianney, linh mục",
+    "bai_doc": "Ds 11,4b-15 ; Mt 14,13-21 (hay Mt 14,22-36) (Tr)"
+  },
+  {
+    "ngay": {
+      "original": "05/08",
+      "slash": "5/8",
+      "dot": "5.8",
+      "text": "5 tháng 8"
+    },
+    "loai_le": "Lễ thường",
+    "ten_le": "Cung hiến thánh đường Đức Maria",
+    "bai_doc": "Ds 12,1-13 ; Mt 14,22-36 (hay Mt 15,1-2.10-14). Lễ Đức Mẹ (Tr): Kh 21,1-5a ; Lc 11,27-28 (X)"
+  },
+  {
+    "ngay": {
+      "original": "06/08",
+      "slash": "6/8",
+      "dot": "6.8",
+      "text": "6 tháng 8"
+    },
+    "loai_le": "Lễ kính",
+    "ten_le": "CHÚA HIỂN DUNG",
+    "bai_doc": "Đn 7.9-10,13-14 (hay 2 Pr 1,16-19) ; Lc 9,28b-36 (Tr)"
+  },
+  {
+    "ngay": {
+      "original": "07/08",
+      "slash": "7/8",
+      "dot": "7.8",
+      "text": "7 tháng 8"
+    },
+    "loai_le": "Lễ thường",
+    "ten_le": "Thánh Xystô II, giáo hoàng và các bạn, tử đạo. Thánh Cajêtanô, linh mục",
+    "bai_doc": "Ds 20,1-13 ; Mt 16,13-23 (X)"
+  },
+  {
+    "ngay": {
+      "original": "08/08",
+      "slash": "8/8",
+      "dot": "8.8",
+      "text": "8 tháng 8"
+    },
+    "loai_le": "Lễ nhớ",
+    "ten_le": "Thánh Đa Minh, linh mục",
+    "bai_doc": "Đnl 4,32-40 ; Mt 16,24-28 (Tr)"
+  },
+  {
+    "ngay": {
+      "original": "09/08",
+      "slash": "9/8",
+      "dot": "9.8",
+      "text": "9 tháng 8"
+    },
+    "loai_le": "Lễ thường",
+    "ten_le": "Thánh Têrêsa Bênêđicta Thánh Giá, nữ tu, tử đạo",
+    "bai_doc": "Đnl 6,4-13 ; Mt 17,14-20 (X)"
+  },
+  {
+    "ngay": {
+      "original": "10/08",
+      "slash": "10/8",
+      "dot": "10.8",
+      "text": "10 tháng 8"
+    },
+    "loai_le": "Lễ trọng",
+    "ten_le": "CHÚA NHẬT XIX THƯỜNG NIÊN. Thánh vịnh tuần III",
+    "bai_doc": "Kn 18,6-9 ; Dt 11,1-2.8-19 (hay Dt 11,1-2.8-12) ; Lc 12,32-48 (hay Lc 12,35-40) (X)"
+  },
+  {
+    "ngay": {
+      "original": "11/08",
+      "slash": "11/8",
+      "dot": "11.8",
+      "text": "11 tháng 8"
+    },
+    "loai_le": "Lễ nhớ",
+    "ten_le": "Thánh Clara, trinh nữ",
+    "bai_doc": "Đnl 10,12-22 ; Mt 17,22-27 (Tr)"
+  },
+  {
+    "ngay": {
+      "original": "12/08",
+      "slash": "12/8",
+      "dot": "12.8",
+      "text": "12 tháng 8"
+    },
+    "loai_le": "Lễ thường",
+    "ten_le": "Thánh Joanna Phanxica Chantal, nữ tu. Thánh Giacôbê Đỗ Mai Năm, linh mục; thánh Antôn Nguyễn Tiến Đích, chánh trương; thánh Micae Nguyễn Huy Mỹ, lý trưởng, tử đạo († 1838)",
+    "bai_doc": "Đnl 31,1-8 ; Mt 18,1-5.10.12-14 (X)"
+  },
+  {
+    "ngay": {
+      "original": "13/08",
+      "slash": "13/8",
+      "dot": "13.8",
+      "text": "13 tháng 8"
+    },
+    "loai_le": "Lễ thường",
+    "ten_le": "Thánh Pontianô, giáo hoàng và thánh Hippôlytô, linh mục, tử đạo",
+    "bai_doc": "Đnl 34,1-12 ; Mt 18,15-20 (X)"
+  },
+  {
+    "ngay": {
+      "original": "14/08",
+      "slash": "14/8",
+      "dot": "14.8",
+      "text": "14 tháng 8"
+    },
+    "loai_le": "Lễ nhớ",
+    "ten_le": "Thánh Maximilianô Maria Kolbê, linh mục, tử đạo. Chiều: LỄ VỌNG ĐỨC MẸ LÊN TRỜI (Tr)",
+    "bai_doc": "Gs 3,7-110a.11.13-17 ; Mt 18,21–19,1. Chiều: 1 Sb 15,3-4.15-16 ; 16,1-2 ; 1 Cr 15, 54b-57 ; Lc 11,27-28 (Đ)"
+  },
+  {
+    "ngay": {
+      "original": "15/08",
+      "slash": "15/8",
+      "dot": "15.8",
+      "text": "15 tháng 8"
+    },
+    "loai_le": "Lễ trọng",
+    "ten_le": "ĐỨC MẸ LÊN TRỜI",
+    "bai_doc": "Kh 11,19a ; 12,1-6a.10ab ; 1 Cr 15,20-27; Lc 1, 39-56 (Tr)"
+  },
+  {
+    "ngay": {
+      "original": "16/08",
+      "slash": "16/8",
+      "dot": "16.8",
+      "text": "16 tháng 8"
+    },
+    "loai_le": "Lễ thường",
+    "ten_le": "Thánh Stêphanô, vua nước Hungari",
+    "bai_doc": "Gs 24,14-29 ; Mt 19,13-15 (X)"
+  },
+  {
+    "ngay": {
+      "original": "17/08",
+      "slash": "17/8",
+      "dot": "17.8",
+      "text": "17 tháng 8"
+    },
+    "loai_le": "Lễ trọng",
+    "ten_le": "CHÚA NHẬT XX THƯỜNG NIÊN. Thánh vịnh tuần IV. Được cử hành lễ trọng (Tr): ĐỨC MẸ HỒN XÁC LÊN TRỜI",
+    "bai_doc": "Gr 38,4-6.8-10 ; Dt 12,1-4 ; Lc 12,49-53. Lễ trọng: ngày chính lễ (X)"
+  },
+  {
+    "ngay": {
+      "original": "18/08",
+      "slash": "18/8",
+      "dot": "18.8",
+      "text": "18 tháng 8"
+    },
+    "loai_le": "Lễ thường",
+    "ten_le": "Thứ Hai trong tuần thứ Hai Mươi Mùa Quanh Năm",
+    "bai_doc": "Tl 2,11-19 ; Mt 19,16-22 (X)"
+  },
+  {
+    "ngay": {
+      "original": "19/08",
+      "slash": "19/8",
+      "dot": "19.8",
+      "text": "19 tháng 8"
+    },
+    "loai_le": "Lễ thường",
+    "ten_le": "Thánh Gioan Êuđê, linh mục",
+    "bai_doc": "Tl 6,11-24a ; Mt 19,23-30 (X)"
+  },
+  {
+    "ngay": {
+      "original": "20/08",
+      "slash": "20/8",
+      "dot": "20.8",
+      "text": "20 tháng 8"
+    },
+    "loai_le": "Lễ nhớ",
+    "ten_le": "Thánh Bernarđô, viện phụ, tiến sĩ Hội Thánh",
+    "bai_doc": "Tl 9,6-15 ; Mt 20,1-16a (Tr)"
+  },
+  {
+    "ngay": {
+      "original": "21/08",
+      "slash": "21/8",
+      "dot": "21.8",
+      "text": "21 tháng 8"
+    },
+    "loai_le": "Lễ nhớ",
+    "ten_le": "Thánh Giuse Đặng Đình Viên, linh mục, tử đạo († 1838). Thánh Piô X, giáo hoàng (Tr)",
+    "bai_doc": "Tl 11,29-39a ; Mt 22,1-14 (Đ)"
+  },
+  {
+    "ngay": {
+      "original": "22/08",
+      "slash": "22/8",
+      "dot": "22.8",
+      "text": "22 tháng 8"
+    },
+    "loai_le": "Lễ nhớ",
+    "ten_le": "Đức Maria Nữ Vương",
+    "bai_doc": "Is 9,1-6 ; Lc 1,26-38 (Tr)"
+  },
+  {
+    "ngay": {
+      "original": "23/08",
+      "slash": "23/8",
+      "dot": "23.8",
+      "text": "23 tháng 8"
+    },
+    "loai_le": "Lễ thường",
+    "ten_le": "Thánh Rôsa Lima, trinh nữ",
+    "bai_doc": "R 2,1-3.8-11 ; 4,13-17 ; Mt 23,1-12 (X)"
+  },
+  {
+    "ngay": {
+      "original": "24/08",
+      "slash": "24/8",
+      "dot": "24.8",
+      "text": "24 tháng 8"
+    },
+    "loai_le": "Lễ trọng",
+    "ten_le": "CHÚA NHẬT XXI THƯỜNG NIÊN. Thánh vịnh tuần I",
+    "bai_doc": "Is 66,18-21 ; Dt 12,5-7.11-13 ; Lc 13,22-30 (X)"
+  },
+  {
+    "ngay": {
+      "original": "25/08",
+      "slash": "25/8",
+      "dot": "25.8",
+      "text": "25 tháng 8"
+    },
+    "loai_le": "Lễ thường",
+    "ten_le": "Thánh Luy, vua nước Pháp và thánh Giuse Calasanz, linh mục",
+    "bai_doc": "1 Tx 1,1-5.8b-10 ; Mt 23,13-22 (X)"
+  },
+  {
+    "ngay": {
+      "original": "26/08",
+      "slash": "26/8",
+      "dot": "26.8",
+      "text": "26 tháng 8"
+    },
+    "loai_le": "Lễ thường",
+    "ten_le": "Thứ Ba trong tuần thứ Hai Mươi-Nhất Mùa Quanh Năm",
+    "bai_doc": "1 Tx 2,1-8 ; Mt 23,23-26 (X)"
+  },
+  {
+    "ngay": {
+      "original": "27/08",
+      "slash": "27/8",
+      "dot": "27.8",
+      "text": "27 tháng 8"
+    },
+    "loai_le": "Lễ nhớ",
+    "ten_le": "Thánh nữ Mônica",
+    "bai_doc": "1 Tx 2,9-13 ; Mt 23,27-32 (Tr)"
+  },
+  {
+    "ngay": {
+      "original": "28/08",
+      "slash": "28/8",
+      "dot": "28.8",
+      "text": "28 tháng 8"
+    },
+    "loai_le": "Lễ nhớ",
+    "ten_le": "Thánh Augustinô, giám mục, tiến sĩ Hội Thánh",
+    "bai_doc": "1 Tx 3,7-13 ; Mt 24,42-51 (Tr)"
+  },
+  {
+    "ngay": {
+      "original": "29/08",
+      "slash": "29/8",
+      "dot": "29.8",
+      "text": "29 tháng 8"
+    },
+    "loai_le": "Lễ nhớ",
+    "ten_le": "Thánh Gioan Tẩy Giả bị trảm quyết",
+    "bai_doc": "Gr 1,17-19 ; Mc 6,17-29 (Đ)"
+  },
+  {
+    "ngay": {
+      "original": "30/08",
+      "slash": "30/8",
+      "dot": "30.8",
+      "text": "30 tháng 8"
+    },
+    "loai_le": "Lễ thường",
+    "ten_le": "Thứ Bảy trong tuần thứ Hai Mươi-Nhất Mùa Quanh Năm",
+    "bai_doc": "1 Tx 4,9-11 ; Mt 25,14-30 (X)"
+  },
+  {
+    "ngay": {
+      "original": "31/08",
+      "slash": "31/8",
+      "dot": "31.8",
+      "text": "31 tháng 8"
+    },
+    "loai_le": "Lễ trọng",
+    "ten_le": "CHÚA NHẬT XXII THƯỜNG NIÊN. Thánh vịnh tuần II",
+    "bai_doc": "Hc 3,17-18.20.28-29 ; Dt 12,18-19.22-24a ; Lc 14,1.7-14 (X)"
+  },
+  
+  {
+    "ngay": {
+      "original": "01/09",
+      "slash": "1/9",
+      "dot": "1.9",
+      "text": "1 tháng 9"
+    },
+    "loai_le": "Lễ thường",
+    "ten_le": "Thứ Hai trong tuần thứ Hai Mươi-Hai Mùa Quanh Năm",
+    "bai_doc": "Tx 4,13-18 ; Lc 4,16-30 (X)"
+  },
+  {
+    "ngay": {
+      "original": "02/09",
+      "slash": "2/9",
+      "dot": "2.9",
+      "text": "2 tháng 9"
+    },
+    "loai_le": "Lễ thường",
+    "ten_le": "Thứ Ba trong tuần thứ Hai Mươi-Hai Mùa Quanh Năm",
+    "bai_doc": "1 Tx 5,1-6.9-11 ; Lc 4,31-37 (X)"
+  },
+  {
+    "ngay": {
+      "original": "03/09",
+      "slash": "3/9",
+      "dot": "3.9",
+      "text": "3 tháng 9"
+    },
+    "loai_le": "Lễ nhớ",
+    "ten_le": "Thánh Grêgôriô Cả, giáo hoàng, tiến sĩ Hội Thánh",
+    "bai_doc": "Cl 1,1-8 ; Lc 4,38-44 (Tr)"
+  },
+  {
+    "ngay": {
+      "original": "04/09",
+      "slash": "4/9",
+      "dot": "4.9",
+      "text": "4 tháng 9"
+    },
+    "loai_le": "Lễ thường",
+    "ten_le": "Thứ Năm trong tuần thứ Hai Mươi-Hai Mùa Quanh Năm",
+    "bai_doc": "Cl 1,9-14 ; Lc 5,1-11 (X)"
+  },
+  {
+    "ngay": {
+      "original": "05/09",
+      "slash": "5/9",
+      "dot": "5.9",
+      "text": "5 tháng 9"
+    },
+    "loai_le": "Lễ nhớ",
+    "ten_le": "Thánh Giuse Hoàng Lương Cảnh, trùm họ, Thánh Phêrô Nguyễn Văn Tự, linh mục, tử đạo († 1838). Thánh Têrêsa Calcutta, nữ tu",
+    "bai_doc": "Mt 25, 31-46 (Đ)"
+  },
+  {
+    "ngay": {
+      "original": "06/09",
+      "slash": "6/9",
+      "dot": "6.9",
+      "text": "6 tháng 9"
+    },
+    "loai_le": "Lễ thường",
+    "ten_le": "Thứ Bảy trong tuần thứ Hai Mươi-Hai Mùa Quanh Năm",
+    "bai_doc": "Cl 1,21-23 ; Lc 6,1-5 (X)"
+  },
+  {
+    "ngay": {
+      "original": "07/09",
+      "slash": "7/9",
+      "dot": "7.9",
+      "text": "7 tháng 9"
+    },
+    "loai_le": "Lễ trọng",
+    "ten_le": "CHÚA NHẬT XXIII THƯỜNG NIÊN. Thánh vịnh tuần III",
+    "bai_doc": "Kn 9,13-18 ; Plm 9b-10.12-17 ; Lc 14,25-33 (X)"
+  },
+  {
+    "ngay": {
+      "original": "08/09",
+      "slash": "8/9",
+      "dot": "8.9",
+      "text": "8 tháng 9"
+    },
+    "loai_le": "Lễ kính",
+    "ten_le": "SINH NHẬT ĐỨC TRINH NỮ MARIA",
+    "bai_doc": "Mk 5,1-4a (hay Rm 8,28-30) ; Mt 1,1-16.18-23 (hay Mt 1,18-23) (Tr)"
+  },
+  {
+    "ngay": {
+      "original": "09/09",
+      "slash": "9/9",
+      "dot": "9.9",
+      "text": "9 tháng 9"
+    },
+    "loai_le": "Lễ thường",
+    "ten_le": "Thánh Phêrô Claver, linh mục",
+    "bai_doc": "Cl 2,6-15 ; Lc 6,12-19 (X)"
+  },
+  {
+    "ngay": {
+      "original": "10/09",
+      "slash": "10/9",
+      "dot": "10.9",
+      "text": "10 tháng 9"
+    },
+    "loai_le": "Lễ thường",
+    "ten_le": "Thứ Tư trong tuần thứ Hai Mươi-Ba Mùa Quanh Năm",
+    "bai_doc": "Cl 3,1-11 ; Lc 6,20-26 (X)"
+  },
+  {
+    "ngay": {
+      "original": "11/09",
+      "slash": "11/9",
+      "dot": "11.9",
+      "text": "11 tháng 9"
+    },
+    "loai_le": "Lễ thường",
+    "ten_le": "Thứ Năm trong tuần thứ Hai Mươi-Ba Mùa Quanh Năm",
+    "bai_doc": "Cl 3,12-17 ; Lc 6,27-38 (X)"
+  },
+  {
+    "ngay": {
+      "original": "12/09",
+      "slash": "12/9",
+      "dot": "12.9",
+      "text": "12 tháng 9"
+    },
+    "loai_le": "Lễ thường",
+    "ten_le": "Danh Thánh Đức Maria",
+    "bai_doc": "1 Tm 1,1-2.12-14 ; Lc 6,39-42. Lễ Đức Mẹ (Tr): GI 4,4-7 (hay Ep 1,3-6.11-12) ; Lc 1,39-47 (X)"
+  },
+  {
+    "ngay": {
+      "original": "13/09",
+      "slash": "13/9",
+      "dot": "13.9",
+      "text": "13 tháng 9"
+    },
+    "loai_le": "Lễ nhớ",
+    "ten_le": "Thánh Gioan Kim Khẩu, giám mục, tiến sĩ Hội Thánh",
+    "bai_doc": "1 Tm 1,15-17 ; Lc 6,43-49 (Tr)"
+  },
+  {
+    "ngay": {
+      "original": "14/09",
+      "slash": "14/9",
+      "dot": "14.9",
+      "text": "14 tháng 9"
+    },
+    "loai_le": "Lễ trọng",
+    "ten_le": "CHÚA NHẬT XXIV THƯỜNG NIÊN. SUY TÔN THÁNH GIÁ",
+    "bai_doc": "Ds 21,4b-9 ; Pl 2,6-11 ; Ga 3,13-17 (Đ)"
+  },
+  {
+    "ngay": {
+      "original": "15/09",
+      "slash": "15/9",
+      "dot": "15.9",
+      "text": "15 tháng 9"
+    },
+    "loai_le": "Lễ nhớ",
+    "ten_le": "Thánh vịnh tuần IV. Đức Mẹ Sầu Bi",
+    "bai_doc": "Dt 5,7-9 ; Ga 19,25-27 (hay Lc 2,33-35) (Tr)"
+  },
+  {
+    "ngay": {
+      "original": "16/09",
+      "slash": "16/9",
+      "dot": "16.9",
+      "text": "16 tháng 9"
+    },
+    "loai_le": "Lễ nhớ",
+    "ten_le": "Thánh Cornêliô, giáo hoàng, tử đạo và thánh Cyprianô, giám mục, tử đạo",
+    "bai_doc": "1 Tm 3,1-13 ; Lc 7,11-17 (Đ)"
+  },
+  {
+    "ngay": {
+      "original": "17/09",
+      "slash": "17/9",
+      "dot": "17.9",
+      "text": "17 tháng 9"
+    },
+    "loai_le": "Lễ thường",
+    "ten_le": "Thánh Robertô Bellarminô, giám mục, tiến sĩ Hội Thánh. Thánh Hildegardis Bingensis, trinh nữ, tiến sĩ Hội Thánh. Thánh Emmanuel Nguyễn Văn Triệu, linh mục, tử đạo († 1798)",
+    "bai_doc": "1 Tm 3,14-16 ; Lc 7,31-35 (X)"
+  },
+  {
+    "ngay": {
+      "original": "18/09",
+      "slash": "18/9",
+      "dot": "18.9",
+      "text": "18 tháng 9"
+    },
+    "loai_le": "Lễ thường",
+    "ten_le": "Thánh Đaminh Vũ Đức Trạch (Đoài), linh mục, tử đạo († 1840)",
+    "bai_doc": "1 Tm 4,12-16 ; Lc 7,36-50 (X)"
+  },
+  {
+    "ngay": {
+      "original": "19/09",
+      "slash": "19/9",
+      "dot": "19.9",
+      "text": "19 tháng 9"
+    },
+    "loai_le": "Lễ thường",
+    "ten_le": "Thánh Januariô, giám mục, tử đạo.",
+    "bai_doc": "1 Tm 6,2c-12 ; Lc 8,1-3 (Đ)"
+  },
+  {
+    "ngay": {
+      "original": "20/09",
+      "slash": "20/9",
+      "dot": "20.9",
+      "text": "20 tháng 9"
+    },
+    "loai_le": "Lễ nhớ",
+    "ten_le": "Thánh Anrê Kim Têgon, thánh Phaolô Chong Hasang và các bạn, tử đạo. Thánh Jean Charles Cornay Tân, linh mục, tử đạo († 1837)",
+    "bai_doc": "1 Tm 6,13-16 ; Lc 8,4-15 (Đ)"
+  },
+  {
+    "ngay": {
+      "original": "21/09",
+      "slash": "21/9",
+      "dot": "21.9",
+      "text": "21 tháng 9"
+    },
+    "loai_le": "Lễ trọng",
+    "ten_le": "CHÚA NHẬT XXV THƯỜNG NIÊN. Thánh vịnh tuần I",
+    "bai_doc": "Am 8,4-7 ; 1 Tm 2,1-8 ; Lc 16,1-13 (hay Lc 16,10-13) (X)"
+  },
+  {
+    "ngay": {
+      "original": "22/09",
+      "slash": "22/9",
+      "dot": "22.9",
+      "text": "22 tháng 9"
+    },
+    "loai_le": "Lễ thường",
+    "ten_le": "Thứ Hai trong tuần thứ Hai Mươi-Năm Mùa Quanh Năm",
+    "bai_doc": "Er 1,1-6 ; Lc 8,16-18 (X)"
+  },
+  {
+    "ngay": {
+      "original": "23/09",
+      "slash": "23/9",
+      "dot": "23.9",
+      "text": "23 tháng 9"
+    },
+    "loai_le": "Lễ nhớ",
+    "ten_le": "Thánh Piô Pietrelcina, linh mục",
+    "bai_doc": "Er 6,7-8,12b.14-20 ; Lc 8,19-21 (Tr)"
+  },
+  {
+    "ngay": {
+      "original": "24/09",
+      "slash": "24/9",
+      "dot": "24.9",
+      "text": "24 tháng 9"
+    },
+    "loai_le": "Lễ thường",
+    "ten_le": "Thứ Tư trong tuần thứ Hai Mươi-Năm Mùa Quanh Năm",
+    "bai_doc": "Er 9,5-9 ; Lc 9,1-6 (X)"
+  },
+  {
+    "ngay": {
+      "original": "25/09",
+      "slash": "25/9",
+      "dot": "25.9",
+      "text": "25 tháng 9"
+    },
+    "loai_le": "Lễ thường",
+    "ten_le": "Thứ Năm trong tuần thứ Hai Mươi-Năm Mùa Quanh Năm",
+    "bai_doc": "Kg 1,1-8 ; Lc 9,7-9 (X)"
+  },
+  {
+    "ngay": {
+      "original": "26/09",
+      "slash": "26/9",
+      "dot": "26.9",
+      "text": "26 tháng 9"
+    },
+    "loai_le": "Lễ thường",
+    "ten_le": "Thánh Cosma và thánh Đamianô, tử đạo",
+    "bai_doc": "Kg 1,15b–2,9 ; Lc 9,18-22 (X)"
+  },
+  {
+    "ngay": {
+      "original": "27/09",
+      "slash": "27/9",
+      "dot": "27.9",
+      "text": "27 tháng 9"
+    },
+    "loai_le": "Lễ nhớ",
+    "ten_le": "Thánh Vinh Sơn Phaolô, linh mục",
+    "bai_doc": "Dcr 2,5-9.14-15a ; Lc 9,43b-45 (Tr)"
+  },
+  {
+    "ngay": {
+      "original": "28/09",
+      "slash": "28/9",
+      "dot": "28.9",
+      "text": "28 tháng 9"
+    },
+    "loai_le": "Lễ trọng",
+    "ten_le": "CHÚA NHẬT XXVI THƯỜNG NIÊN. Thánh vịnh tuần II",
+    "bai_doc": "Am 6,1a.4-7 ; 1 Tm 6,11-16 ; Lc 16,19-31 (X)"
+  },
+  {
+    "ngay": {
+      "original": "29/09",
+      "slash": "29/9",
+      "dot": "29.9",
+      "text": "29 tháng 9"
+    },
+    "loai_le": "Lễ kính",
+    "ten_le": "CÁC TỔNG LÃNH THIÊN THẦN MICHAEL, GABRIEL, RAPHAEL",
+    "bai_doc": "Ðn 7,9-10.13-14 (hay Kh 12,7-12a ; Ga 1,47-51 (Tr)"
+  },
+  {
+    "ngay": {
+      "original": "30/09",
+      "slash": "30/9",
+      "dot": "30.9",
+      "text": "30 tháng 9"
+    },
+    "loai_le": "Lễ nhớ",
+    "ten_le": "Thánh Giêrônimô, linh mục, tiến sĩ Hội Thánh",
+    "bai_doc": "Dcr 8,20-23 ; Lc 9,51-56 (Tr)"
+  },
+  
+  {
+    "ngay": {
+      "original": "01/10",
+      "slash": "1/10",
+      "dot": "1.10",
+      "text": "1 tháng 10"
+    },
+    "loai_le": "Lễ kính",
+    "ten_le": "Thánh Tê-rê-xa Hài Đồng Giê-su, trinh nữ, tiến sĩ Hội Thánh",
+    "bai_doc": "Nkm 2:1-8; Tv 137:1-2,3,4-5,6; Lc 9:57-62"
+  },
+  {
+    "ngay": {
+      "original": "02/10",
+      "slash": "2/10",
+      "dot": "2.10",
+      "text": "2 tháng 10"
+    },
+    "loai_le": "Lễ nhớ",
+    "ten_le": "Các thiên thần hộ thủ",
+    "bai_doc": "Nkm 8:1-4,5-6,7-12; Tv 19:8,9,10,11; Lc 10:1-12"
+  },
+  {
+    "ngay": {
+      "original": "03/10",
+      "slash": "3/10",
+      "dot": "3.10",
+      "text": "3 tháng 10"
+    },
+    "loai_le": "Lễ thường",
+    "ten_le": "Thứ Sáu trong tuần thứ Hai Mươi-Sáu Mùa Quanh Năm",
+    "bai_doc": "Br 1:15-22; Tv 79:1-2,3-5,8,9; Lc 10:13-16"
+  },
+  {
+    "ngay": {
+      "original": "04/10",
+      "slash": "4/10",
+      "dot": "4.10",
+      "text": "4 tháng 10"
+    },
+    "loai_le": "Lễ nhớ",
+    "ten_le": "Thánh Phan-xi-cô thành Át-xi-di",
+    "bai_doc": "Br 4:5-12,27-29; Tv 69:33-35,36-37; Lc 10:17-24"
+  },
+  {
+    "ngay": {
+      "original": "05/10",
+      "slash": "5/10",
+      "dot": "5.10",
+      "text": "5 tháng 10"
+    },
+    "loai_le": "Lễ trọng",
+    "ten_le": "Đức Mẹ Mân Côi",
+    "bai_doc": "Kb 1:2-3,2; Tv 95:1-2,6-7,8-9; 2 Tm 1:6-8,13-14; Lc 17:5-10"
+  },
+  {
+    "ngay": {
+      "original": "06/10",
+      "slash": "6/10",
+      "dot": "6.10",
+      "text": "6 tháng 10"
+    },
+    "loai_le": "Lễ thường",
+    "ten_le": "Thứ Hai trong tuần thứ Hai Mươi-Bảy Mùa Quanh Năm",
+    "bai_doc": "St 1:1; St 2:1,112; Lc 10:25-37"
+  },
+  {
+    "ngay": {
+      "original": "07/10",
+      "slash": "7/10",
+      "dot": "7.10",
+      "text": "7 tháng 10"
+    },
+    "loai_le": "Lễ thường",
+    "ten_le": "Thứ Ba trong tuần thứ Hai Mươi-Bảy Mùa Quanh Năm",
+    "bai_doc": "St 3:1-10; Tv 130:1-2,3-4,7-8; Lc 10:38-42"
+  },
+  {
+    "ngay": {
+      "original": "08/10",
+      "slash": "8/10",
+      "dot": "8.10",
+      "text": "8 tháng 10"
+    },
+    "loai_le": "Lễ thường",
+    "ten_le": "Thứ Tư trong tuần thứ Hai Mươi-Bảy Mùa Quanh Năm",
+    "bai_doc": "St 4:1-11; Tv 86:3-4,5-6,9-10; Lc 11:1-4"
+  },
+  {
+    "ngay": {
+      "original": "09/10",
+      "slash": "9/10",
+      "dot": "9.10",
+      "text": "9 tháng 10"
+    },
+    "loai_le": "Lễ thường",
+    "ten_le": "Thứ Năm trong tuần thứ Hai Mươi-Bảy Mùa Quanh Năm",
+    "bai_doc": "St 3:13-20; Tv 1:1,1-2,3,4,6; Lc 11:5-13"
+  },
+  {
+    "ngay": {
+      "original": "10/10",
+      "slash": "10/10",
+      "dot": "10.10",
+      "text": "10 tháng 10"
+    },
+    "loai_le": "Lễ thường",
+    "ten_le": "Thứ Sáu trong tuần thứ Hai Mươi-Bảy Mùa Quanh Năm",
+    "bai_doc": "Ge 1:13-15; Tv 9:2-3,6,16,8-9; Lc 11:15-26"
+  },
+  {
+    "ngay": {
+      "original": "11/10",
+      "slash": "11/10",
+      "dot": "11.10",
+      "text": "11 tháng 10"
+    },
+    "loai_le": "Lễ thường",
+    "ten_le": "Thứ Bảy trong tuần thứ Hai Mươi-Bảy Mùa Quanh Năm",
+    "bai_doc": "Ge 4:12-21; Tv 97:1-2,5-6,11-12; Lc 11:27-28"
+  },
+  {
+    "ngay": {
+      "original": "12/10",
+      "slash": "12/10",
+      "dot": "12.10",
+      "text": "12 tháng 10"
+    },
+    "loai_le": "Lễ trọng",
+    "ten_le": "Chúa Nhật thứ Hai Mươi-Tám Mùa Quanh Năm",
+    "bai_doc": "2 V 5:14-17; Tv 98:1,2-3,3-4; 2 Tm 2:8-13; Lc 17:11-19"
+  },
+  {
+    "ngay": {
+      "original": "13/10",
+      "slash": "13/10",
+      "dot": "13.10",
+      "text": "13 tháng 10"
+    },
+    "loai_le": "Lễ thường",
+    "ten_le": "Thứ Hai trong tuần thứ Hai Mươi-Tám Mùa Quanh Năm",
+    "bai_doc": "Rm 1:1-7; Tv 98:1,2-3,3-4; Lc 11:29-32"
+  },
+  {
+    "ngay": {
+      "original": "14/10",
+      "slash": "14/10",
+      "dot": "14.10",
+      "text": "14 tháng 10"
+    },
+    "loai_le": "Lễ thường",
+    "ten_le": "Thứ Ba trong tuần thứ Hai Mươi-Tám Mùa Quanh Năm",
+    "bai_doc": "Rm 1:16-25; Tv 19:2-3,4-5; Lc 11:37-41"
+  },
+  {
+    "ngay": {
+      "original": "15/10",
+      "slash": "15/10",
+      "dot": "15.10",
+      "text": "15 tháng 10"
+    },
+    "loai_le": "Lễ nhớ",
+    "ten_le": "Thánh Tê-rê-xa Giê-su, trinh nữ, tiến sĩ Hội Thánh",
+    "bai_doc": "Rm 2:1-11; Tv 62:2-3,6-7,9; Lc 11:42-46"
+  },
+  {
+    "ngay": {
+      "original": "16/10",
+      "slash": "16/10",
+      "dot": "16.10",
+      "text": "16 tháng 10"
+    },
+    "loai_le": "Lễ thường",
+    "ten_le": "Thứ Năm trong tuần thứ Hai Mươi-Tám Mùa Quanh Năm",
+    "bai_doc": "Rm 3:21-29; Tv 130:1-2,3-4,5-6; Lc 11:47-54"
+  },
+  {
+    "ngay": {
+      "original": "17/10",
+      "slash": "17/10",
+      "dot": "17.10",
+      "text": "17 tháng 10"
+    },
+    "loai_le": "Lễ nhớ",
+    "ten_le": "Thánh I-nha-xi-ô thành An-ti-ô-khi-a, giám mục, tử đạo",
+    "bai_doc": "Rm 4:1-8; Tv 32:1-2,5,11; Lc 12:1-7"
+  },
+  {
+    "ngay": {
+      "original": "18/10",
+      "slash": "18/10",
+      "dot": "18.10",
+      "text": "18 tháng 10"
+    },
+    "loai_le": "Lễ kính",
+    "ten_le": "Thánh Lu-ca, tác giả sách Tin Mừng",
+    "bai_doc": "Rm 4:13,16-18; Tv 105:6-7,8-9,42-43; Lc 12:8-12"
+  },
+  {
+    "ngay": {
+      "original": "19/10",
+      "slash": "19/10",
+      "dot": "19.10",
+      "text": "19 tháng 10"
+    },
+    "loai_le": "Lễ trọng",
+    "ten_le": "Chúa Nhật thứ Hai Mươi-Chín Mùa Quanh Năm",
+    "bai_doc": "Xh 17:8-13; Tv 121:1-2,3-4,5-6,7-8; 2 Tm 3:144; Lc 18:1-8"
+  },
+  {
+    "ngay": {
+      "original": "20/10",
+      "slash": "20/10",
+      "dot": "20.10",
+      "text": "20 tháng 10"
+    },
+    "loai_le": "Lễ thường",
+    "ten_le": "Thứ Hai trong tuần thứ Hai Mươi-Chín Mùa Quanh Năm",
+    "bai_doc": "Rm 4:20-25; Lc 1:69-70,71-72,73,75; Lc 12:13-21"
+  },
+  {
+    "ngay": {
+      "original": "21/10",
+      "slash": "21/10",
+      "dot": "21.10",
+      "text": "21 tháng 10"
+    },
+    "loai_le": "Lễ thường",
+    "ten_le": "Thứ Ba trong tuần thứ Hai Mươi-Chín Mùa Quanh Năm",
+    "bai_doc": "Rm 5:12,15,17-19,20-21; Tv 40:7-8,89,10,17; Lc 12:35-38"
+  },
+  {
+    "ngay": {
+      "original": "22/10",
+      "slash": "22/10",
+      "dot": "22.10",
+      "text": "22 tháng 10"
+    },
+    "loai_le": "Lễ thường",
+    "ten_le": "Thứ Tư trong tuần thứ Hai Mươi-Chín Mùa Quanh Năm",
+    "bai_doc": "Rm 6:12-18; Tv 124:1-3,4-6,7-8; Lc 12:39-48"
+  },
+  {
+    "ngay": {
+      "original": "23/10",
+      "slash": "23/10",
+      "dot": "23.10",
+      "text": "23 tháng 10"
+    },
+    "loai_le": "Lễ thường",
+    "ten_le": "Thứ Năm trong tuần thứ Hai Mươi-Chín Mùa Quanh Năm",
+    "bai_doc": "Rm 6:19-23; Tv 1:1-2,3,4,6; Lc 12:49-53"
+  },
+  {
+    "ngay": {
+      "original": "24/10",
+      "slash": "24/10",
+      "dot": "24.10",
+      "text": "24 tháng 10"
+    },
+    "loai_le": "Lễ thường",
+    "ten_le": "Thứ Sáu trong tuần thứ Hai Mươi-Chín Mùa Quanh Năm",
+    "bai_doc": "Rm 7:18-25; Tv 119:66,68,76,77,93,94; Lc 12:54-59"
+  },
+  {
+    "ngay": {
+      "original": "25/10",
+      "slash": "25/10",
+      "dot": "25.10",
+      "text": "25 tháng 10"
+    },
+    "loai_le": "Lễ thường",
+    "ten_le": "Thứ Bảy trong tuần thứ Hai Mươi-Chín Mùa Quanh Năm",
+    "bai_doc": "Rm 8:1-11; Tv 24:1-2,3-4,5-6; Lc 13:1-9"
+  },
+  {
+    "ngay": {
+      "original": "26/10",
+      "slash": "26/10",
+      "dot": "26.10",
+      "text": "26 tháng 10"
+    },
+    "loai_le": "Lễ trọng",
+    "ten_le": "Chúa Nhật thứ Ba Mươi Mùa Quanh Năm",
+    "bai_doc": "Hc 35:12-14,16-18; Tv 34:2-3,17-18,19-23; 2 Tm 4:6-8,16-18; Lc 18:9-14"
+  },
+  {
+    "ngay": {
+      "original": "27/10",
+      "slash": "27/10",
+      "dot": "27.10",
+      "text": "27 tháng 10"
+    },
+    "loai_le": "Lễ thường",
+    "ten_le": "Thứ Hai trong tuần thứ Ba Mươi Mùa Quanh Năm",
+    "bai_doc": "Rm 8:12-17; Tv 68:2,4,6-7,20-21; Lc 13:10-17"
+  },
+  {
+    "ngay": {
+      "original": "28/10",
+      "slash": "28/10",
+      "dot": "28.10",
+      "text": "28 tháng 10"
+    },
+    "loai_le": "Lễ kính",
+    "ten_le": "Thánh Si-mon và thánh Giu-đa, tông đồ",
+    "bai_doc": "Rm 8:18-25; Tv 126:1-2,2-3,4-5,6; Lc 13:18-21"
+  },
+  {
+    "ngay": {
+      "original": "29/10",
+      "slash": "29/10",
+      "dot": "29.10",
+      "text": "29 tháng 10"
+    },
+    "loai_le": "Lễ thường",
+    "ten_le": "Thứ Tư trong tuần thứ Ba Mươi Mùa Quanh Năm",
+    "bai_doc": "Rm 8:26-30; Tv 13:4-5,6; Lc 13:22-30"
+  },
+  {
+    "ngay": {
+      "original": "30/10",
+      "slash": "30/10",
+      "dot": "30.10",
+      "text": "30 tháng 10"
+    },
+    "loai_le": "Lễ thường",
+    "ten_le": "Thứ Năm trong tuần thứ Ba Mươi Mùa Quanh Năm",
+    "bai_doc": "Rm 8:31-39; Tv 109:21-22,26-27,30-31; Lc 13:31-35"
+  },
+  {
+    "ngay": {
+      "original": "31/10",
+      "slash": "31/10",
+      "dot": "31.10",
+      "text": "31 tháng 10"
+    },
+    "loai_le": "Lễ thường",
+    "ten_le": "Thứ Sáu trong tuần thứ Ba Mươi Mùa Quanh Năm",
+    "bai_doc": "Rm 9:1-5; Tv 147:12-13,14-15,19-20; Lc 14:1-6"
+  },
+  
+  {
+    "ngay": {
+      "original": "01/11",
+      "slash": "1/11",
+      "dot": "1.11",
+      "text": "1 tháng 11"
+    },
+    "loai_le": "Lễ trọng",
+    "ten_le": "Các Thánh Nam Nữ",
+    "bai_doc": "Rm 11:1-2,11-12,25-29; Tv 94:12-13,14-15,17-18; Lc 14:1,7-11"
+  },
+  {
+    "ngay": {
+      "original": "02/11",
+      "slash": "2/11",
+      "dot": "2.11",
+      "text": "2 tháng 11"
+    },
+    "loai_le": "Lễ thường",
+    "ten_le": "Cầu Cho Các Tín Hữu Đã Qua Đời",
+    "bai_doc": "Rm 6:3-9; Ga 6:51-59; Kh 3:1-9; Lc 23:33,39-43; Rm 5:4-11; Ga 17:24-26"
+  },
+  {
+    "ngay": {
+      "original": "03/11",
+      "slash": "3/11",
+      "dot": "3.11",
+      "text": "3 tháng 11"
+    },
+    "loai_le": "Lễ thường",
+    "ten_le": "Thứ Hai trong tuần thứ Ba Mươi-Nhất Mùa Quanh Năm",
+    "bai_doc": "Rm 11:29-36; Tv 69:30-31,33-34,36-37; Lc 14:12-14"
+  },
+  {
+    "ngay": {
+      "original": "04/11",
+      "slash": "4/11",
+      "dot": "4.11",
+      "text": "4 tháng 11"
+    },
+    "loai_le": "Lễ nhớ",
+    "ten_le": "Thánh Ca-rô-lô Bô-rô-mê-ô, giám mục",
+    "bai_doc": "Rm 12:5-16; Tv 14:15-24"
+  },
+  {
+    "ngay": {
+      "original": "05/11",
+      "slash": "5/11",
+      "dot": "5.11",
+      "text": "5 tháng 11"
+    },
+    "loai_le": "Lễ thường",
+    "ten_le": "Thứ Tư trong tuần thứ Ba Mươi-Nhất Mùa Quanh Năm",
+    "bai_doc": "Rm 13:8-10; Tv 112:1-2,4-5,9; Lc 14:25-33"
+  },
+  {
+    "ngay": {
+      "original": "06/11",
+      "slash": "6/11",
+      "dot": "6.11",
+      "text": "6 tháng 11"
+    },
+    "loai_le": "Lễ thường",
+    "ten_le": "Thứ Năm trong tuần thứ Ba Mươi-Nhất Mùa Quanh Năm",
+    "bai_doc": "Rm 14:7-12; Tv 27:1,4,13-14; Lc 15:1-10"
+  },
+  {
+    "ngay": {
+      "original": "07/11",
+      "slash": "7/11",
+      "dot": "7.11",
+      "text": "7 tháng 11"
+    },
+    "loai_le": "Lễ thường",
+    "ten_le": "Thứ Sáu trong tuần thứ Ba Mươi-Nhất Mùa Quanh Năm",
+    "bai_doc": "Rm 15:14-21; Tv 98:1,2-3,3-4; Lc 16:1-8"
+  },
+  {
+    "ngay": {
+      "original": "08/11",
+      "slash": "8/11",
+      "dot": "8.11",
+      "text": "8 tháng 11"
+    },
+    "loai_le": "Lễ thường",
+    "ten_le": "Thứ Bảy trong tuần thứ Ba Mươi-Nhất Mùa Quanh Năm",
+    "bai_doc": "Rm 16:3-9,16,22-27; Tv 145:2-3,4-5,10-11; Lc 16:9-15"
+  },
+  {
+    "ngay": {
+      "original": "09/11",
+      "slash": "9/11",
+      "dot": "9.11",
+      "text": "9 tháng 11"
+    },
+    "loai_le": "Lễ kính",
+    "ten_le": "Cung hiến thánh đường La-tê-ra-nô",
+    "bai_doc": "2 Mcb 7:1-2,9-14; Tv 17:1,5-6,8-1522; Lc 20:27-38; Lc 20:27,34-38"
+  },
+  {
+    "ngay": {
+      "original": "10/11",
+      "slash": "10/11",
+      "dot": "10.11",
+      "text": "10 tháng 11"
+    },
+    "loai_le": "Lễ nhớ",
+    "ten_le": "Thánh Lê-ô Cả, giáo hoàng, tiến sĩ Hội Thánh",
+    "bai_doc": "Kn 1:1-7; Tv 139:1-3,4-6,7-8,9-10; Lc 17:1-6"
+  },
+  {
+    "ngay": {
+      "original": "11/11",
+      "slash": "11/11",
+      "dot": "11.11",
+      "text": "11 tháng 11"
+    },
+    "loai_le": "Lễ nhớ",
+    "ten_le": "Thánh Mác-ti-nô thành Tua, giám mục",
+    "bai_doc": "Kn 2:23-3; Tv 34:2-3,16-17,18-19; Lc 17:7-10"
+  },
+  {
+    "ngay": {
+      "original": "12/11",
+      "slash": "12/11",
+      "dot": "12.11",
+      "text": "12 tháng 11"
+    },
+    "loai_le": "Lễ nhớ",
+    "ten_le": "Thánh Giô-sa-phát, giám mục, tử đạo",
+    "bai_doc": "Kn 6:2-11; Tv 82:3-4,6-7; Lc 17:11-19"
+  },
+  {
+    "ngay": {
+      "original": "13/11",
+      "slash": "13/11",
+      "dot": "13.11",
+      "text": "13 tháng 11"
+    },
+    "loai_le": "Lễ nhớ",
+    "ten_le": "Thánh Frances Xavier Cabrini, Đt",
+    "bai_doc": "Kn 7:22; Kn 8:1; Tv 119:89,90,91,130,135,175; Lc 17:20-25"
+  },
+  {
+    "ngay": {
+      "original": "14/11",
+      "slash": "14/11",
+      "dot": "14.11",
+      "text": "14 tháng 11"
+    },
+    "loai_le": "Lễ thường",
+    "ten_le": "Thứ Sáu trong tuần thứ Ba Mươi-Hai Mùa Quanh Năm",
+    "bai_doc": "Kn 13:1-9; Tv 19:2-3,4-5; Lc 17:26-37"
+  },
+  {
+    "ngay": {
+      "original": "15/11",
+      "slash": "15/11",
+      "dot": "15.11",
+      "text": "15 tháng 11"
+    },
+    "loai_le": "Lễ thường",
+    "ten_le": "Thứ Bảy trong tuần thứ Ba Mươi-Hai Mùa Quanh Năm",
+    "bai_doc": "Kn 18:14-16; Tv 105:2-3,36-37,42-43; Lc 18:1-8"
+  },
+  {
+    "ngay": {
+      "original": "16/11",
+      "slash": "16/11",
+      "dot": "16.11",
+      "text": "16 tháng 11"
+    },
+    "loai_le": "Lễ trọng",
+    "ten_le": "Thánh An-rê Trần An Dũng Lạc và các bạn, tử đạo",
+    "bai_doc": "St 3:19-20; Tv 98:5-6,7-8,923; Lc 21:5-19"
+  },
+  {
+    "ngay": {
+      "original": "17/11",
+      "slash": "17/11",
+      "dot": "17.11",
+      "text": "17 tháng 11"
+    },
+    "loai_le": "Lễ nhớ",
+    "ten_le": "Thánh nữ Ê-li-sa-bet nước Hung-ga-ri",
+    "bai_doc": "1 Mcb 1:10-15,41-43,54-57,62-63; Tv 119:53,61,134,150,155,158; Lc 18:35-43"
+  },
+  {
+    "ngay": {
+      "original": "18/11",
+      "slash": "18/11",
+      "dot": "18.11",
+      "text": "18 tháng 11"
+    },
+    "loai_le": "Lễ thường",
+    "ten_le": "Thứ Ba trong tuần thứ Ba Mươi-Ba Mùa Quanh Năm",
+    "bai_doc": "2 Mcb 6:18-31; Tv 3:2-3,4-5,6-8; Lc 19:1-10"
+  },
+  {
+    "ngay": {
+      "original": "19/11",
+      "slash": "19/11",
+      "dot": "19.11",
+      "text": "19 tháng 11"
+    },
+    "loai_le": "Lễ thường",
+    "ten_le": "Thứ Tư trong tuần thứ Ba Mươi-Ba Mùa Quanh Năm",
+    "bai_doc": "2 Mcb 7:1,20-31; Tv 17:1,5-6,8,15; Lc 19:11-28"
+  },
+  {
+    "ngay": {
+      "original": "20/11",
+      "slash": "20/11",
+      "dot": "20.11",
+      "text": "20 tháng 11"
+    },
+    "loai_le": "Lễ thường",
+    "ten_le": "Thứ Năm trong tuần thứ Ba Mươi-Ba Mùa Quanh Năm",
+    "bai_doc": "1 Mcb 2:15-29; Tv 50:1-2,5-6,14-15; Lc 19:41-44"
+  },
+  {
+    "ngay": {
+      "original": "21/11",
+      "slash": "21/11",
+      "dot": "21.11",
+      "text": "21 tháng 11"
+    },
+    "loai_le": "Lễ nhớ",
+    "ten_le": "Đức Mẹ dâng mình trong đền thờ",
+    "bai_doc": "1 Mcb 4:36-37,52-59; 1 Sb 29:10,11,11-12,12; Lc 19:45-48"
+  },
+  {
+    "ngay": {
+      "original": "22/11",
+      "slash": "22/11",
+      "dot": "22.11",
+      "text": "22 tháng 11"
+    },
+    "loai_le": "Lễ nhớ",
+    "ten_le": "Thánh Xê-xi-li-a, trinh nữ, tử đạo",
+    "bai_doc": "1 Mcb 6:1-13; Tv 9:2-3,4,6,16,19; Lc 20:27-40"
+  },
+  {
+    "ngay": {
+      "original": "23/11",
+      "slash": "23/11",
+      "dot": "23.11",
+      "text": "23 tháng 11"
+    },
+    "loai_le": "Lễ trọng",
+    "ten_le": "Lễ Chúa Kitô Vua",
+    "bai_doc": "2 Sm 5:1-3; Tv 122:1-2,3-4,4-5; Cl 1:12-20; Lc 23:35-43"
+  },
+  {
+    "ngay": {
+      "original": "24/11",
+      "slash": "24/11",
+      "dot": "24.11",
+      "text": "24 tháng 11"
+    },
+    "loai_le": "Lễ nhớ",
+    "ten_le": "Thứ Hai trong tuần thứ Ba Mươi-Tư Mùa Quanh Năm",
+    "bai_doc": "St 1:1-6,8-203; Lc 21:1-4"
+  },
+  {
+    "ngay": {
+      "original": "25/11",
+      "slash": "25/11",
+      "dot": "25.11",
+      "text": "25 tháng 11"
+    },
+    "loai_le": "Lễ thường",
+    "ten_le": "Thứ Ba trong tuần thứ Ba Mươi-Tư Mùa Quanh Năm",
+    "bai_doc": "St 2:31-453; Lc 21:5-11"
+  },
+  {
+    "ngay": {
+      "original": "26/11",
+      "slash": "26/11",
+      "dot": "26.11",
+      "text": "26 tháng 11"
+    },
+    "loai_le": "Lễ thường",
+    "ten_le": "Thứ Tư trong tuần thứ Ba Mươi-Tư Mùa Quanh Năm",
+    "bai_doc": "St 5:1-6,13-14,16-17,23-283; Lc 21:12-19"
+  },
+  {
+    "ngay": {
+      "original": "27/11",
+      "slash": "27/11",
+      "dot": "27.11",
+      "text": "27 tháng 11"
+    },
+    "loai_le": "Lễ thường",
+    "ten_le": "Thứ Năm trong tuần thứ Ba Mươi-Tư Mùa Quanh Năm",
+    "bai_doc": "St 6:12-283; Lc 21:20-28"
+  },
+  {
+    "ngay": {
+      "original": "28/11",
+      "slash": "28/11",
+      "dot": "28.11",
+      "text": "28 tháng 11"
+    },
+    "loai_le": "Lễ thường",
+    "ten_le": "Thứ Sáu trong tuần thứ Ba Mươi-Tư Mùa Quanh Năm",
+    "bai_doc": "St 7:2-143; Lc 21:29-33"
+  },
+  {
+    "ngay": {
+      "original": "29/11",
+      "slash": "29/11",
+      "dot": "29.11",
+      "text": "29 tháng 11"
+    },
+    "loai_le": "Lễ thường",
+    "ten_le": "Thứ Bảy trong tuần thứ Ba Mươi-Tư Mùa Quanh Năm",
+    "bai_doc": "St 7:15-273; Lc 21:34-36"
+  },
+  {
+    "ngay": {
+      "original": "30/11",
+      "slash": "30/11",
+      "dot": "30.11",
+      "text": "30 tháng 11"
+    },
+    "loai_le": "Lễ trọng",
+    "ten_le": "Chúa Nhật thứ Nhất Mùa Vọng",
+    "bai_doc": "Gr 33:14-16; Tv 25:4-5,8-9,10-1413; Lc 21:25-28,34-36"
+  },
+  
+  {
+    "ngay": {
+      "original": "01/12",
+      "slash": "1/12",
+      "dot": "1.12",
+      "text": "1 tháng 12"
+    },
+    "loai_le": "Lễ thường",
+    "ten_le": "Thứ Hai trong tuần thứ Nhất Mùa Vọng",
+    "bai_doc": "Is 2:1-5; Is 4:2-6; Tv 122:1-2,3-4,4-5,6-7,8-9; Mt 8:5-11"
+  },
+  {
+    "ngay": {
+      "original": "02/12",
+      "slash": "2/12",
+      "dot": "2.12",
+      "text": "2 tháng 12"
+    },
+    "loai_le": "Lễ thường",
+    "ten_le": "Thứ Ba trong tuần thứ Nhất Mùa Vọng",
+    "bai_doc": "Is 11:1-10; Tv 72:1,7-8,12-13,17; Lc 10:21-24"
+  },
+  {
+    "ngay": {
+      "original": "03/12",
+      "slash": "3/12",
+      "dot": "3.12",
+      "text": "3 tháng 12"
+    },
+    "loai_le": "Lễ kính",
+    "ten_le": "Thánh Phan-xi-cô Xa-vi-e, linh mục",
+    "bai_doc": "Is 25:6-10; Tv 23:1-3,3-4,5,6; Mt 15:29-37"
+  },
+  {
+    "ngay": {
+      "original": "04/12",
+      "slash": "4/12",
+      "dot": "4.12",
+      "text": "4 tháng 12"
+    },
+    "loai_le": "Lễ thường",
+    "ten_le": "Thứ Năm trong tuần thứ Nhất Mùa Vọng",
+    "bai_doc": "Is 26:1-6; Tv 118:1,8-9,19-21,25-27; Mt 7:21,24-27"
+  },
+  {
+    "ngay": {
+      "original": "05/12",
+      "slash": "5/12",
+      "dot": "5.12",
+      "text": "5 tháng 12"
+    },
+    "loai_le": "Lễ thường",
+    "ten_le": "Thứ Sáu trong tuần thứ Nhất Mùa Vọng",
+    "bai_doc": "Is 29:17-24; Tv 27:1,4,13-14; Mt 9:27-31"
+  },
+  {
+    "ngay": {
+      "original": "06/12",
+      "slash": "6/12",
+      "dot": "6.12",
+      "text": "6 tháng 12"
+    },
+    "loai_le": "Lễ thường",
+    "ten_le": "Thứ Bảy trong tuần thứ Nhất Mùa Vọng",
+    "bai_doc": "Is 30:19-21,23-26; Tv 147:1-2,3-4,5-6; Mt 9:35; Mt 10:1,6-8"
+  },
+  {
+    "ngay": {
+      "original": "07/12",
+      "slash": "7/12",
+      "dot": "7.12",
+      "text": "7 tháng 12"
+    },
+    "loai_le": "Lễ trọng",
+    "ten_le": "Chúa Nhật thứ Hai Mùa Vọng",
+    "bai_doc": "Br 5:1-9; Tv 126:1-2,2-3,4-5,6; Pl 1:4-6,8-11; Lc 3:1-6"
+  },
+  {
+    "ngay": {
+      "original": "08/12",
+      "slash": "8/12",
+      "dot": "8.12",
+      "text": "8 tháng 12"
+    },
+    "loai_le": "Lễ trọng",
+    "ten_le": "Đức Maria vô nhiễm nguyên tội",
+    "bai_doc": "Is 35:1-10; Tv 85:9-10,11-12,13-14; Lc 5:17-26"
+  },
+  {
+    "ngay": {
+      "original": "09/12",
+      "slash": "9/12",
+      "dot": "9.12",
+      "text": "9 tháng 12"
+    },
+    "loai_le": "Lễ thường",
+    "ten_le": "Thứ Ba trong tuần thứ Hai Mùa Vọng",
+    "bai_doc": "Is 40:1-11; Tv 96:1-2,3,10,11-12,13; Mt 18:12-14"
+  },
+  {
+    "ngay": {
+      "original": "10/12",
+      "slash": "10/12",
+      "dot": "10.12",
+      "text": "10 tháng 12"
+    },
+    "loai_le": "Lễ thường",
+    "ten_le": "Thứ Tư trong tuần thứ Hai Mùa Vọng",
+    "bai_doc": "Is 40:25-31; Tv 103:1-2,3-4,8,10; Mt 11:28-30"
+  },
+  {
+    "ngay": {
+      "original": "11/12",
+      "slash": "11/12",
+      "dot": "11.12",
+      "text": "11 tháng 12"
+    },
+    "loai_le": "Lễ thường",
+    "ten_le": "Thứ Năm trong tuần thứ Hai Mùa Vọng",
+    "bai_doc": "Is 41:13-20; Tv 145:1,9,10-11,12-13; Mt 11:11-15"
+  },
+  {
+    "ngay": {
+      "original": "12/12",
+      "slash": "12/12",
+      "dot": "12.12",
+      "text": "12 tháng 12"
+    },
+    "loai_le": "Lễ thường",
+    "ten_le": "Thứ Sáu trong tuần thứ Hai Mùa Vọng",
+    "bai_doc": "Is 48:17-19; Tv 1:1-2,3,4,6; Mt 11:16-19"
+  },
+  {
+    "ngay": {
+      "original": "13/12",
+      "slash": "13/12",
+      "dot": "13.12",
+      "text": "13 tháng 12"
+    },
+    "loai_le": "Lễ nhớ",
+    "ten_le": "Thánh Lu-xi-a, trinh nữ, tử đạo",
+    "bai_doc": "Hc 48:1-4,9-11; Tv 80:2-3,15-16,18-19; Mt 17:10-13"
+  },
+  {
+    "ngay": {
+      "original": "14/12",
+      "slash": "14/12",
+      "dot": "14.12",
+      "text": "14 tháng 12"
+    },
+    "loai_le": "Lễ trọng",
+    "ten_le": "Chúa Nhật thứ Ba Mùa Vọng",
+    "bai_doc": "Xp 3:14-18; Is 12:2-3,4,5-6; Pl 4:4-7; Lc 3:10-18"
+  },
+  {
+    "ngay": {
+      "original": "15/12",
+      "slash": "15/12",
+      "dot": "15.12",
+      "text": "15 tháng 12"
+    },
+    "loai_le": "Lễ thường",
+    "ten_le": "Thứ Hai trong tuần thứ Ba Mùa Vọng",
+    "bai_doc": "Ds 24:2-7,15-17; Tv 25:4-5,6-7,8-9; Mt 21:23-27"
+  },
+  {
+    "ngay": {
+      "original": "16/12",
+      "slash": "16/12",
+      "dot": "16.12",
+      "text": "16 tháng 12"
+    },
+    "loai_le": "Lễ thường",
+    "ten_le": "Thứ Ba trong tuần thứ Ba Mùa Vọng",
+    "bai_doc": "Xp 3:1-2,9-13; Tv 34:2-3,6-8,17-18,19,23; Mt 21:28-32"
+  },
+  {
+    "ngay": {
+      "original": "17/12",
+      "slash": "17/12",
+      "dot": "17.12",
+      "text": "17 tháng 12"
+    },
+    "loai_le": "Lễ thường",
+    "ten_le": "Thứ Tư trong tuần thứ Ba Mùa Vọng",
+    "bai_doc": "St 49:2,8-10; Tv 72:3-4,7-8,17; Mt 1:1-17"
+  },
+  {
+    "ngay": {
+      "original": "18/12",
+      "slash": "18/12",
+      "dot": "18.12",
+      "text": "18 tháng 12"
+    },
+    "loai_le": "Lễ thường",
+    "ten_le": "Thứ Năm trong tuần thứ Ba Mùa Vọng",
+    "bai_doc": "Gr 23:5-8; Tv 72:1,12-13,18-19; Mt 1:18-24"
+  },
+  {
+    "ngay": {
+      "original": "19/12",
+      "slash": "19/12",
+      "dot": "19.12",
+      "text": "19 tháng 12"
+    },
+    "loai_le": "Lễ thường",
+    "ten_le": "Thứ Sáu trong tuần thứ Ba Mùa Vọng",
+    "bai_doc": "Tl 13:2-7,24-25; Tv 71:3-4,5-6,16-17; Lc 1:5-25"
+  },
+  {
+    "ngay": {
+      "original": "20/12",
+      "slash": "20/12",
+      "dot": "20.12",
+      "text": "20 tháng 12"
+    },
+    "loai_le": "Lễ thường",
+    "ten_le": "Thứ Bảy trong tuần thứ Ba Mùa Vọng",
+    "bai_doc": "Is 7:10-14; Tv 24:1-2,3-4,5-6; Lc 1:26-38"
+  },
+  {
+    "ngay": {
+      "original": "21/12",
+      "slash": "21/12",
+      "dot": "21.12",
+      "text": "21 tháng 12"
+    },
+    "loai_le": "Lễ trọng",
+    "ten_le": "Chúa Nhật thứ Tư Mùa Vọng",
+    "bai_doc": "St 5:1-4; Tv 80:2-3,15-16,18-19; Dt 10:5-10; Lc 1:39-45"
+  },
+  {
+    "ngay": {
+      "original": "22/12",
+      "slash": "22/12",
+      "dot": "22.12",
+      "text": "22 tháng 12"
+    },
+    "loai_le": "Lễ thường",
+    "ten_le": "Thứ Hai trong tuần thứ Tư Mùa Vọng",
+    "bai_doc": "1 Sm 1:24-28; 1 Sm 2:1,4-5,6-7,8; Lc 1:46-56"
+  },
+  {
+    "ngay": {
+      "original": "23/12",
+      "slash": "23/12",
+      "dot": "23.12",
+      "text": "23 tháng 12"
+    },
+    "loai_le": "Lễ thường",
+    "ten_le": "Thứ Ba trong tuần thứ Tư Mùa Vọng",
+    "bai_doc": "St 3:1-4,23-24; Tv 25:4-5,8-9,10,14; Lc 1:57-66"
+  },
+  {
+    "ngay": {
+      "original": "24/12",
+      "slash": "24/12",
+      "dot": "24.12",
+      "text": "24 tháng 12"
+    },
+    "loai_le": "Lễ thường",
+    "ten_le": "Lễ Vọng Chúa Giáng Sinh",
+    "bai_doc": "Is 62:1-5; Tv 89:4-5,16-17,27-29; Cv 13:16-17,22-25; Mt 1:1-25; Mt 1:18-25; Is 9:1-6; Tv 96:1-2,2-3,11-12,132; Lc 2:1-14"
+  },
+  {
+    "ngay": {
+      "original": "25/12",
+      "slash": "25/12",
+      "dot": "25.12",
+      "text": "25 tháng 12"
+    },
+    "loai_le": "Lễ trọng",
+    "ten_le": "Chúa Giáng Sinh",
+    "bai_doc": "Is 62:11-12; Tv 97:1-6,11-123; Lc 2:15-20; Is 52:7-10; Tv 98:1,2-3,3-4,5-6; Dt 1:1-6; Ga 1:1-18; Ga 1:1-5,9-14"
+  },
+  {
+    "ngay": {
+      "original": "26/12",
+      "slash": "26/12",
+      "dot": "26.12",
+      "text": "26 tháng 12"
+    },
+    "loai_le": "Lễ kính",
+    "ten_le": "Thánh Tê-pha-nô, tử đạo tiên khởi",
+    "bai_doc": "Cv 6:8-10; Tv 31:3-4,6,7,8,17,21; Mt 10:17-22"
+  },
+  {
+    "ngay": {
+      "original": "27/12",
+      "slash": "27/12",
+      "dot": "27.12",
+      "text": "27 tháng 12"
+    },
+    "loai_le": "Lễ kính",
+    "ten_le": "Thánh Gio-an, tông đồ, tác giả sách Tin Mừng",
+    "bai_doc": "1 Ga 1:1-4; Tv 97:1-2,5-6,11-12; Ga 20:2-8"
+  },
+  {
+    "ngay": {
+      "original": "28/12",
+      "slash": "28/12",
+      "dot": "28.12",
+      "text": "28 tháng 12"
+    },
+    "loai_le": "Lễ kính",
+    "ten_le": "Thánh Gia Thất: Chúa Giê-su, Đức Maria và thánh Giu-se",
+    "bai_doc": "1 Sm 1:20-22,24-28; Tv 84:2-3,5-6,9-10; 1 Ga 3:1-2,21-24; Lc 2:41-52"
+  },
+  {
+    "ngay": {
+      "original": "29/12",
+      "slash": "29/12",
+      "dot": "29.12",
+      "text": "29 tháng 12"
+    },
+    "loai_le": "Lễ thường",
+    "ten_le": "Ngày thứ năm trong tuần Bát Nhật Lễ Giáng Sinh",
+    "bai_doc": "1 Ga 2:3-11; Tv 96:1-2,2-3,5-6; Lc 2:22-35"
+  },
+  {
+    "ngay": {
+      "original": "30/12",
+      "slash": "30/12",
+      "dot": "30.12",
+      "text": "30 tháng 12"
+    },
+    "loai_le": "Lễ thường",
+    "ten_le": "Ngày thứ sáu trong tuần Bát Nhật Lễ Giáng Sinh",
+    "bai_doc": "1 Ga 2:12-17; Tv 96:7-8,8-9,10; Lc 2:36-40"
+  }
+]
+
+
+
+
