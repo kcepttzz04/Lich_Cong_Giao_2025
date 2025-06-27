@@ -78,19 +78,18 @@ def send_menu(chat_id, message_id=None):
 def callback_menu(call):
     send_menu(chat_id=call.message.chat.id, message_id=call.message.message_id)
 
-@bot.message_handler(commands=['menu'])
-def command_menu(message):
-    send_menu(chat_id=message.chat.id)
 @bot.callback_query_handler(func=lambda call: call.data == "homnay")
 def homnay(call):
     bot.delete_message(chat_id=call.message.chat.id, message_id=call.message.message_id)
     bot.answer_callback_query(call.id)
     try:
-        today = datetime.now().strftime("%#d/%#m")  # Windows
-        # Nếu bạn dùng Linux, macOS thì dùng: today = datetime.now().strftime("%-d/%-m")
+        # Dòng cần sửa: Dùng "%-d/%-m" để loại bỏ số 0 ở đầu tháng trên Linux (Railway)
+        today = datetime.now().strftime("%-d/%-m") # <-- Dòng này đã được sửa
 
+        # Không cần thay đổi điều kiện so sánh, vì bạn đang so sánh với muc["ngay"]["slash"]
+        # which is "27/6" and matches "%-d/%-m" output for June 27th.
         for muc in lich_phung_vu:
-            if muc["ngay"]["slash"] == today:
+            if muc["ngay"]["slash"] == today: # Giữ nguyên so sánh với 'slash'
                 noidung = (
                     f"🗓 <b>Lịch phụng vụ hôm nay ({muc['ngay']['original']})</b>\n"
                     f"🕊️ {muc['loai_le']}\n"
