@@ -6,9 +6,9 @@ import random
 from telebot.types import InlineKeyboardMarkup, InlineKeyboardButton, ReplyKeyboardMarkup, KeyboardButton, ForceReply
 
 # Cấu hình Bot
-API_TOKEN_BOT = "8168755374:AAH_pQrXdvgG_3rzjw8Rq72o9QbH-her_gY"
+API_TOKEN_BOT = "7862049111:AAHnZsa7JGHJmEauKpoxAwSLGN4Vf5UItT8"
 bot = telebot.TeleBot(API_TOKEN_BOT)
-BOT_B_TOKEN = "7867676996:AAEVZQaR6aQZBq2h-4w7JzcBP-BSgXKLPVQ"
+BOT_B_TOKEN = "7278566660:AAGGqqh4K200zT_IWtY7jb_y8U8cXE-i2zM"
 CHAT_ID_B = "-4712065072"
 
 # Số tài khoản và ngân hàng
