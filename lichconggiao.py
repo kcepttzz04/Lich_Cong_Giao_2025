@@ -16,9 +16,10 @@ import logging
 import requests  # Thêm requests để gửi feedback
 from telebot.types import ReplyKeyboardMarkup, KeyboardButton, ReplyKeyboardRemove
 # API Telegram
-API_KEY = "7862049111:AAFZiQujw9A22uIQ5rFZ3XAuqH8bJK-uQJo"
+API_KEY = "7862049111:AAGzOhCSQ0RvJvygQ1z85PPq6TV5P8a8xKM"
 bot = telebot.TeleBot(API_KEY)
 BOT_B_TOKEN = "7278566660:AAEPHsJ4-7ihpdfqctRLLGMDI5MXOFC_31M"
+CHAT_ID_B = "-4712065072"
 # Số tài khoản và ngân hàng
 STK = "359577004"
 BANK = "VIB"
@@ -28,11 +29,6 @@ def thoi_gian_hien_tai():
 # Cấu hình logging
 logging.basicConfig(format='%(asctime)s - %(name)s - %(levelname)s - %(message)s', level=logging.INFO)
 logger = logging.getLogger(__name__)
-
-# Thay thế bằng token bot của bạn
-BOT_B_TOKEN = "7862049111:AAHnZsa7JGHJmEauKpoxAwSLGN4Vf5UItT8"
-# Thay thế bằng chat ID nhận feedback
-CHAT_ID_B = "-4712065072"
 
 
 # Gửi lời chào khi /start
