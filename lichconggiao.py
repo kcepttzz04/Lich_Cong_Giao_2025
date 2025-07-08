@@ -16,7 +16,7 @@ import logging
 import requests  # Thêm requests để gửi feedback
 from telebot.types import ReplyKeyboardMarkup, KeyboardButton, ReplyKeyboardRemove
 # API Telegram
-API_KEY = "7862049111:AAEqj5Fg5PnlLcaNgJrLyBm5cWTbNX82JF8"
+API_KEY = "7862049111:AAHRJajxPnCQzuz9HWLKpfph3lYHziKbo-k"
 bot = telebot.TeleBot(API_KEY)
 BOT_B_TOKEN = "7278566660:AAEPHsJ4-7ihpdfqctRLLGMDI5MXOFC_31M"
 CHAT_ID_B = "-4712065072"
